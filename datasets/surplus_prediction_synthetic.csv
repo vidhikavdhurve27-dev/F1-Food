@@ -1,0 +1,4001 @@
+day_of_week,weather,cuisine_type,avg_daily_sales,local_event,surplus_meals
+0,rain,Continental,69.6,1,32
+5,clear,Chinese,135.7,0,35
+4,storm,North Indian,124.6,0,35
+3,cloudy,North Indian,135.1,0,9
+3,clear,Continental,138.9,1,37
+6,rain,Continental,82.7,1,36
+0,clear,Continental,81.0,0,14
+4,clear,North Indian,148.6,1,39
+1,clear,Continental,94.8,1,28
+0,cloudy,North Indian,20.0,0,6
+3,clear,North Indian,146.0,1,35
+6,clear,Chinese,78.5,0,26
+5,clear,Continental,138.7,0,34
+5,clear,Continental,175.7,0,40
+5,clear,Street Food,120.7,0,30
+5,clear,Street Food,159.8,0,39
+3,clear,Chinese,126.2,0,27
+0,clear,Bakery,183.5,0,33
+5,cloudy,North Indian,77.5,1,34
+3,clear,Street Food,119.7,0,22
+3,cloudy,Chinese,146.9,1,44
+2,clear,Bakery,112.4,0,25
+1,clear,Street Food,166.1,0,27
+6,clear,Bakery,102.7,1,44
+5,clear,Street Food,202.8,0,34
+4,clear,North Indian,204.9,1,49
+2,rain,South Indian,131.3,1,35
+5,clear,Continental,142.1,0,39
+3,clear,Continental,167.7,1,41
+3,cloudy,North Indian,72.5,0,10
+3,clear,Bakery,67.5,1,21
+1,clear,North Indian,170.3,0,28
+0,clear,Street Food,131.0,0,22
+3,clear,North Indian,110.9,1,29
+6,clear,Chinese,120.4,0,25
+0,cloudy,Bakery,24.6,1,16
+6,rain,Continental,112.4,1,42
+5,clear,Bakery,89.9,1,28
+1,cloudy,Bakery,156.7,0,22
+4,cloudy,Street Food,159.8,1,40
+1,clear,Chinese,143.1,0,28
+5,cloudy,Street Food,135.8,0,33
+4,cloudy,Continental,60.1,0,13
+2,rain,Street Food,143.6,0,36
+0,storm,Bakery,145.2,0,38
+6,clear,North Indian,169.8,0,47
+3,clear,Continental,204.7,1,59
+6,clear,Street Food,52.3,0,8
+4,clear,North Indian,104.5,0,10
+5,clear,Street Food,90.3,0,22
+5,storm,North Indian,126.9,1,49
+1,clear,Street Food,120.5,1,31
+2,clear,Bakery,110.6,0,23
+3,rain,North Indian,161.1,0,32
+3,clear,Bakery,75.9,1,21
+0,clear,North Indian,78.4,1,22
+3,storm,Continental,79.0,1,31
+1,clear,Street Food,105.6,0,22
+5,clear,South Indian,70.9,0,17
+4,clear,South Indian,118.1,0,20
+6,rain,Chinese,113.4,0,33
+5,clear,Chinese,88.5,1,31
+2,clear,North Indian,155.0,1,42
+6,clear,Chinese,117.6,0,23
+2,clear,South Indian,162.5,1,35
+2,rain,North Indian,112.2,0,25
+6,clear,South Indian,119.0,1,39
+2,storm,North Indian,97.5,0,22
+0,clear,Street Food,119.7,1,37
+3,clear,Street Food,148.5,1,44
+5,rain,Chinese,103.5,0,26
+1,clear,Street Food,140.7,0,31
+3,clear,Chinese,87.5,1,16
+0,rain,Street Food,150.4,1,45
+4,clear,South Indian,96.8,0,14
+3,clear,South Indian,154.1,1,42
+2,storm,Bakery,122.4,0,26
+1,clear,South Indian,180.8,1,42
+3,clear,Bakery,73.8,1,20
+4,clear,Chinese,61.0,0,10
+6,clear,Chinese,95.4,0,30
+3,clear,Chinese,64.6,1,21
+1,cloudy,Bakery,64.7,1,30
+5,clear,North Indian,144.9,0,31
+4,cloudy,Bakery,119.8,1,38
+4,clear,Bakery,100.8,1,22
+0,clear,Bakery,104.5,0,18
+2,clear,Street Food,96.1,1,25
+5,cloudy,Bakery,186.0,0,46
+5,clear,Continental,90.6,0,23
+3,clear,Chinese,67.1,0,4
+5,rain,Chinese,151.8,0,32
+5,cloudy,Bakery,111.4,0,22
+2,clear,Chinese,201.6,1,50
+6,rain,Continental,99.0,0,31
+2,clear,North Indian,153.8,1,36
+1,clear,South Indian,163.3,0,27
+4,clear,South Indian,99.1,1,31
+4,clear,Chinese,90.3,1,22
+0,clear,Continental,149.7,0,29
+5,cloudy,Bakery,143.0,0,33
+1,clear,Chinese,63.6,1,20
+5,rain,North Indian,74.9,0,25
+0,rain,Continental,20.0,1,18
+5,cloudy,North Indian,143.8,1,44
+5,cloudy,Street Food,109.5,1,30
+5,cloudy,Bakery,113.5,0,29
+4,storm,South Indian,52.3,0,22
+3,clear,South Indian,76.1,1,25
+4,clear,North Indian,100.9,1,31
+1,clear,Chinese,93.1,1,26
+5,clear,North Indian,124.7,1,42
+3,clear,Street Food,143.3,0,26
+3,cloudy,North Indian,210.8,0,33
+3,clear,Continental,119.2,1,35
+3,rain,Continental,164.6,0,27
+0,clear,South Indian,86.8,1,27
+0,clear,Bakery,53.0,0,8
+1,clear,North Indian,105.9,0,17
+0,clear,Street Food,56.1,0,11
+3,clear,Bakery,120.6,1,29
+4,clear,Continental,88.8,1,28
+4,clear,Street Food,41.8,1,18
+3,clear,Chinese,189.4,0,32
+5,clear,South Indian,98.5,0,29
+3,clear,North Indian,54.5,1,21
+0,clear,Street Food,155.9,1,41
+5,clear,Chinese,90.9,0,28
+4,clear,Bakery,163.6,0,35
+4,clear,South Indian,90.7,1,29
+3,clear,Street Food,98.4,0,16
+3,cloudy,Street Food,133.8,1,28
+0,storm,South Indian,143.7,0,35
+3,rain,Chinese,150.7,1,46
+5,clear,Bakery,116.4,1,38
+2,clear,South Indian,141.1,1,22
+4,clear,North Indian,149.8,1,40
+0,cloudy,South Indian,128.0,0,27
+2,cloudy,Continental,114.3,0,19
+3,rain,North Indian,62.2,1,29
+6,rain,Chinese,144.0,0,38
+1,clear,Street Food,121.7,1,29
+1,cloudy,North Indian,103.5,1,34
+2,rain,North Indian,171.1,0,30
+6,clear,Chinese,62.9,0,17
+5,rain,North Indian,185.8,1,53
+0,clear,North Indian,119.1,0,18
+1,storm,South Indian,132.7,0,33
+5,cloudy,North Indian,104.2,0,30
+0,clear,Bakery,53.3,1,25
+5,cloudy,North Indian,114.4,1,39
+1,clear,Continental,133.4,0,17
+6,cloudy,Bakery,147.0,1,37
+2,cloudy,Continental,112.1,1,31
+3,cloudy,Continental,32.3,0,6
+4,rain,Chinese,58.3,0,13
+0,clear,Street Food,202.1,0,44
+3,clear,North Indian,76.3,0,14
+3,clear,North Indian,177.1,0,34
+5,clear,Street Food,82.6,0,25
+6,clear,North Indian,112.7,1,37
+4,clear,South Indian,145.0,1,46
+2,clear,South Indian,87.2,1,22
+2,clear,North Indian,183.7,0,31
+2,rain,North Indian,123.0,0,22
+5,clear,Continental,138.4,1,47
+2,rain,Continental,109.3,0,27
+1,clear,North Indian,146.3,1,34
+2,clear,Street Food,183.2,1,40
+0,clear,North Indian,114.7,1,36
+0,clear,Bakery,189.2,0,36
+0,clear,Bakery,95.5,0,23
+5,clear,Continental,150.6,0,33
+5,clear,Chinese,139.6,1,43
+4,clear,North Indian,77.3,0,15
+3,cloudy,South Indian,128.6,1,31
+5,clear,Street Food,120.3,1,37
+1,rain,Chinese,85.9,0,15
+6,clear,North Indian,134.3,0,32
+3,storm,Bakery,125.9,0,34
+6,cloudy,Bakery,117.1,0,31
+1,storm,North Indian,117.3,1,42
+3,rain,North Indian,116.4,1,34
+4,clear,North Indian,105.3,0,25
+3,clear,North Indian,125.6,1,36
+3,clear,Continental,94.2,0,23
+1,rain,North Indian,226.3,0,51
+2,cloudy,Continental,63.6,0,11
+1,clear,South Indian,96.6,0,19
+2,rain,Street Food,99.8,1,35
+4,clear,Bakery,201.6,1,42
+4,cloudy,Chinese,67.2,1,18
+4,cloudy,Chinese,137.0,0,19
+2,clear,North Indian,129.9,1,33
+6,cloudy,North Indian,133.3,1,39
+0,rain,Continental,169.5,1,39
+2,clear,North Indian,168.6,1,41
+0,clear,Continental,102.0,0,18
+2,clear,Chinese,127.8,0,28
+6,cloudy,North Indian,45.4,0,22
+2,clear,Continental,124.0,0,24
+6,rain,Continental,88.2,0,23
+3,rain,Bakery,112.5,0,27
+4,clear,South Indian,52.6,0,10
+3,clear,Continental,136.2,0,24
+1,cloudy,Street Food,52.1,0,6
+5,cloudy,South Indian,125.9,0,27
+6,clear,Street Food,70.9,1,28
+1,clear,Bakery,86.0,0,19
+5,clear,Chinese,166.2,0,38
+1,storm,Street Food,143.5,1,51
+5,clear,Street Food,166.0,0,39
+5,rain,South Indian,182.4,1,55
+3,clear,Street Food,89.1,0,15
+5,rain,North Indian,180.0,0,38
+1,clear,North Indian,61.4,0,9
+0,clear,North Indian,149.8,0,24
+0,rain,Chinese,100.3,0,12
+3,rain,Street Food,82.8,1,25
+6,clear,Continental,144.6,0,38
+0,clear,Continental,157.8,1,40
+3,clear,North Indian,156.6,0,27
+4,clear,Continental,128.6,1,35
+1,clear,Chinese,125.3,1,25
+5,rain,Chinese,141.1,1,47
+2,clear,South Indian,132.2,1,39
+5,cloudy,South Indian,141.7,1,41
+4,clear,Street Food,128.2,1,26
+3,clear,Continental,153.7,0,26
+1,cloudy,Chinese,54.9,1,25
+3,clear,North Indian,114.7,0,22
+5,cloudy,Bakery,64.6,1,22
+0,clear,Chinese,131.1,0,33
+5,rain,Chinese,185.7,1,48
+3,cloudy,Bakery,101.0,0,17
+5,rain,North Indian,125.1,1,38
+4,clear,Continental,150.3,0,23
+3,clear,Street Food,37.3,1,15
+2,clear,Chinese,99.1,0,20
+4,clear,North Indian,134.6,0,29
+0,clear,South Indian,20.0,0,2
+4,clear,North Indian,80.9,0,11
+0,clear,Continental,164.0,0,31
+4,clear,Chinese,160.1,0,31
+4,clear,North Indian,135.0,0,25
+0,clear,Bakery,155.3,0,29
+5,clear,South Indian,128.6,1,39
+2,cloudy,Chinese,142.2,1,36
+5,clear,Street Food,107.4,0,25
+0,clear,North Indian,124.6,0,27
+1,clear,South Indian,94.7,0,26
+3,cloudy,South Indian,170.5,1,41
+1,clear,Continental,180.9,1,43
+2,cloudy,South Indian,175.2,1,43
+4,storm,Street Food,103.7,0,24
+1,clear,North Indian,81.8,0,18
+4,rain,Street Food,171.1,0,37
+0,cloudy,Continental,141.8,0,24
+1,clear,North Indian,133.1,1,38
+4,clear,North Indian,94.7,0,17
+5,cloudy,North Indian,137.0,0,27
+1,storm,South Indian,76.6,0,23
+2,clear,South Indian,145.4,0,27
+6,clear,Continental,175.2,1,51
+6,cloudy,South Indian,185.2,1,53
+4,clear,Bakery,148.3,1,36
+3,cloudy,South Indian,64.7,0,10
+2,clear,South Indian,127.9,1,33
+4,cloudy,South Indian,205.6,0,38
+4,rain,South Indian,85.3,1,31
+2,cloudy,Street Food,117.6,0,22
+0,cloudy,South Indian,176.5,1,41
+1,cloudy,South Indian,144.7,0,30
+6,rain,Street Food,219.2,1,57
+2,rain,Continental,90.7,1,40
+3,clear,South Indian,80.4,0,18
+3,cloudy,Street Food,169.0,1,36
+5,clear,South Indian,72.2,0,20
+0,rain,North Indian,112.1,0,27
+0,cloudy,Chinese,117.4,0,20
+1,clear,Bakery,161.4,1,33
+3,clear,South Indian,144.6,1,32
+4,clear,Bakery,138.3,0,27
+3,cloudy,North Indian,103.9,1,22
+3,clear,Bakery,168.6,1,35
+6,clear,North Indian,281.0,1,69
+1,rain,Chinese,147.7,0,30
+4,cloudy,Continental,124.0,1,30
+3,clear,South Indian,68.1,1,20
+3,clear,Continental,94.5,1,21
+5,storm,Bakery,111.5,1,46
+1,cloudy,Continental,98.6,0,15
+6,cloudy,Chinese,119.4,1,35
+2,clear,Bakery,191.1,0,36
+3,clear,Bakery,169.9,0,30
+3,clear,South Indian,113.6,1,28
+5,cloudy,Bakery,71.7,1,21
+3,clear,Street Food,173.5,1,43
+1,clear,Bakery,118.0,0,22
+0,cloudy,Bakery,50.9,1,17
+2,rain,Bakery,148.5,1,37
+5,cloudy,Bakery,161.0,0,35
+0,clear,South Indian,23.0,1,16
+6,clear,Bakery,87.0,1,32
+3,clear,South Indian,115.6,0,27
+0,clear,Chinese,149.4,1,40
+2,clear,Street Food,99.4,0,17
+3,clear,South Indian,86.7,1,29
+2,cloudy,Street Food,149.1,1,37
+0,rain,Chinese,101.3,0,22
+4,storm,South Indian,141.7,0,39
+4,clear,North Indian,75.5,1,20
+0,clear,Continental,65.9,1,22
+1,clear,Chinese,150.2,1,42
+1,clear,Continental,130.1,0,25
+4,clear,North Indian,156.9,1,37
+5,clear,South Indian,98.7,0,17
+5,cloudy,North Indian,88.2,1,23
+6,clear,South Indian,174.4,0,46
+5,rain,Street Food,59.1,1,32
+2,clear,North Indian,170.1,1,38
+0,clear,Bakery,172.8,1,43
+4,clear,North Indian,154.4,0,24
+6,clear,Continental,92.5,1,31
+6,clear,Street Food,87.3,1,28
+1,storm,Chinese,111.6,0,22
+1,clear,South Indian,68.2,1,14
+0,clear,Continental,81.5,0,8
+0,cloudy,South Indian,145.8,1,40
+3,clear,Street Food,146.0,0,22
+3,cloudy,Street Food,78.0,1,26
+2,clear,Continental,147.0,1,40
+2,rain,Continental,138.2,1,39
+5,clear,Continental,180.4,0,37
+3,clear,Bakery,142.8,0,26
+5,cloudy,Chinese,162.3,0,34
+6,rain,Street Food,139.1,0,40
+2,clear,Chinese,159.2,1,46
+1,cloudy,North Indian,68.5,1,28
+6,clear,Bakery,115.1,1,28
+4,clear,Continental,118.4,1,30
+2,clear,Street Food,110.3,0,20
+4,cloudy,Chinese,137.8,1,37
+3,clear,Chinese,145.4,0,19
+6,cloudy,Continental,135.7,1,33
+1,clear,Chinese,112.9,1,36
+6,rain,Bakery,90.6,1,34
+6,rain,Chinese,163.9,0,34
+1,clear,Bakery,134.0,1,30
+1,clear,Chinese,79.3,0,16
+3,clear,South Indian,112.3,1,27
+0,rain,Street Food,50.3,0,14
+2,clear,Continental,121.4,0,18
+3,clear,Bakery,112.1,0,13
+6,clear,Continental,97.0,0,29
+6,cloudy,Chinese,183.4,1,51
+1,clear,Street Food,73.8,1,22
+6,clear,Chinese,148.3,0,31
+0,storm,Street Food,207.5,0,51
+5,clear,Chinese,163.1,1,48
+5,rain,North Indian,118.7,1,46
+6,clear,North Indian,74.6,0,17
+1,clear,Street Food,65.5,0,12
+6,rain,Continental,103.5,0,30
+0,cloudy,Chinese,92.5,0,14
+3,cloudy,Bakery,91.2,0,16
+3,clear,Continental,106.9,1,27
+2,clear,Continental,115.9,1,32
+0,clear,Bakery,139.4,0,20
+5,clear,South Indian,70.5,0,21
+2,clear,North Indian,92.7,1,28
+4,clear,Bakery,113.6,0,20
+2,clear,North Indian,112.2,0,22
+2,clear,Bakery,193.5,0,33
+6,clear,North Indian,129.3,0,27
+0,clear,South Indian,55.5,1,22
+5,rain,Bakery,136.7,0,37
+5,cloudy,Continental,141.8,0,29
+2,clear,Bakery,115.0,0,18
+1,cloudy,Continental,71.5,1,22
+0,rain,North Indian,190.3,1,46
+6,clear,Street Food,77.2,1,36
+6,clear,South Indian,146.4,0,34
+1,clear,North Indian,128.0,1,33
+0,clear,Street Food,144.0,1,32
+0,cloudy,South Indian,188.3,1,47
+0,storm,Continental,142.5,1,41
+5,clear,Chinese,97.7,0,21
+6,cloudy,Bakery,164.2,1,49
+1,clear,North Indian,94.8,1,29
+5,cloudy,North Indian,126.5,1,29
+1,cloudy,Chinese,68.3,1,22
+2,clear,Chinese,78.7,1,25
+4,clear,Bakery,122.1,0,21
+5,cloudy,Continental,134.7,1,41
+6,storm,North Indian,51.9,1,26
+0,clear,Street Food,139.9,0,14
+1,clear,Chinese,87.2,0,12
+1,clear,Street Food,171.2,0,32
+2,cloudy,Street Food,105.9,1,16
+6,cloudy,North Indian,75.1,0,16
+5,cloudy,Continental,123.0,1,30
+2,cloudy,Chinese,83.4,0,14
+6,rain,Chinese,170.8,1,59
+3,rain,South Indian,120.0,1,35
+3,clear,Continental,113.9,0,20
+3,cloudy,Chinese,143.7,0,29
+1,clear,South Indian,79.8,1,24
+6,clear,South Indian,68.4,0,17
+0,rain,North Indian,136.3,1,42
+1,cloudy,Street Food,76.0,1,26
+1,storm,Bakery,76.0,0,23
+1,clear,Chinese,153.5,1,37
+0,clear,Chinese,141.0,1,34
+0,clear,North Indian,69.8,0,16
+4,clear,South Indian,95.2,1,26
+6,clear,Street Food,83.9,0,26
+0,clear,North Indian,191.1,1,40
+2,clear,North Indian,156.2,0,34
+3,rain,Street Food,103.2,1,34
+6,clear,Continental,143.0,1,38
+4,clear,North Indian,65.8,0,14
+5,cloudy,Chinese,93.1,0,20
+4,clear,Bakery,124.2,0,22
+2,rain,Chinese,138.1,0,27
+1,cloudy,Chinese,116.1,0,20
+6,clear,Continental,129.9,1,43
+5,cloudy,Continental,123.1,0,30
+0,cloudy,Street Food,113.5,1,26
+5,cloudy,South Indian,108.2,0,21
+0,rain,South Indian,102.9,1,34
+5,cloudy,North Indian,129.3,1,41
+5,cloudy,Continental,136.4,1,38
+0,clear,Continental,127.9,0,29
+3,cloudy,Chinese,72.9,1,26
+0,storm,Bakery,80.0,1,30
+3,cloudy,Chinese,136.0,0,22
+6,cloudy,South Indian,178.9,0,37
+0,clear,Continental,126.1,1,31
+2,cloudy,Chinese,103.5,0,24
+6,storm,Chinese,129.0,0,41
+2,clear,Chinese,74.5,1,24
+0,clear,Street Food,172.4,1,44
+3,clear,South Indian,127.5,1,36
+3,clear,South Indian,93.2,1,27
+4,cloudy,Continental,113.3,0,22
+2,clear,North Indian,98.9,0,20
+6,clear,North Indian,172.5,1,49
+3,cloudy,Continental,111.9,1,27
+2,cloudy,Continental,126.2,0,20
+6,cloudy,Continental,142.9,0,31
+6,cloudy,North Indian,90.4,0,19
+3,cloudy,Street Food,127.7,0,17
+0,cloudy,Chinese,131.0,0,26
+4,cloudy,North Indian,57.8,1,22
+3,clear,South Indian,130.1,1,28
+1,cloudy,South Indian,118.2,1,30
+4,clear,Chinese,125.2,0,22
+5,clear,Chinese,121.4,0,29
+0,clear,Chinese,130.4,1,29
+5,rain,Chinese,173.5,1,46
+0,cloudy,Street Food,72.8,1,25
+5,clear,Street Food,106.3,0,19
+2,cloudy,Chinese,146.7,0,25
+0,clear,Street Food,139.2,1,34
+6,cloudy,Bakery,138.4,1,40
+1,rain,Bakery,230.1,1,56
+4,cloudy,South Indian,144.6,0,32
+1,cloudy,Chinese,165.2,0,23
+6,clear,Chinese,107.7,0,29
+5,clear,North Indian,80.3,0,10
+5,rain,North Indian,107.4,0,35
+3,cloudy,Continental,148.5,1,29
+3,clear,Chinese,136.3,0,34
+4,clear,Bakery,136.1,1,33
+5,clear,Bakery,111.4,0,31
+5,clear,North Indian,105.0,1,39
+0,clear,Street Food,112.8,0,19
+4,clear,Chinese,149.0,0,25
+0,rain,Continental,153.6,1,38
+2,clear,Street Food,79.8,1,28
+5,clear,Continental,150.5,0,31
+1,clear,North Indian,94.0,1,24
+5,clear,South Indian,138.8,0,33
+3,rain,Chinese,112.3,1,31
+1,clear,North Indian,182.6,1,42
+2,cloudy,South Indian,103.3,1,29
+3,rain,Bakery,127.1,0,24
+5,clear,North Indian,144.3,0,30
+4,cloudy,South Indian,85.0,1,31
+6,storm,Continental,117.1,0,34
+6,clear,North Indian,109.3,1,34
+5,clear,South Indian,99.4,0,23
+4,rain,Street Food,102.4,0,24
+2,rain,Continental,164.5,0,29
+2,clear,Street Food,96.1,0,19
+0,cloudy,Chinese,142.7,0,27
+2,clear,Continental,132.6,0,17
+6,rain,South Indian,64.1,0,29
+2,clear,Chinese,140.8,0,31
+0,clear,South Indian,63.5,1,18
+4,cloudy,Bakery,145.1,1,32
+6,storm,South Indian,99.7,1,43
+6,rain,South Indian,120.3,1,36
+1,clear,Chinese,68.2,0,18
+3,clear,Chinese,124.9,1,31
+3,rain,South Indian,157.1,1,49
+1,rain,Chinese,87.7,0,16
+1,clear,South Indian,95.7,1,27
+1,cloudy,Street Food,138.2,1,40
+6,clear,Continental,139.2,1,40
+5,clear,Street Food,22.6,0,11
+5,clear,Street Food,200.6,1,56
+5,clear,Continental,141.1,1,39
+6,clear,Bakery,147.9,1,38
+0,rain,North Indian,114.3,1,29
+6,clear,Street Food,45.8,1,27
+0,clear,Chinese,147.0,0,28
+3,clear,Bakery,97.4,1,32
+4,clear,South Indian,141.8,0,24
+2,clear,North Indian,111.2,0,14
+1,cloudy,Street Food,129.5,0,14
+1,clear,Chinese,89.0,1,37
+5,cloudy,North Indian,154.6,1,46
+2,rain,Continental,72.5,1,28
+2,clear,North Indian,209.8,0,39
+6,rain,Chinese,209.5,1,52
+1,rain,Bakery,185.3,1,44
+6,rain,Bakery,171.0,1,58
+6,cloudy,Chinese,116.6,1,40
+4,cloudy,Chinese,166.7,0,27
+1,cloudy,Street Food,116.2,0,16
+1,cloudy,South Indian,57.9,1,18
+1,clear,North Indian,180.1,1,41
+4,storm,North Indian,165.2,0,46
+1,cloudy,Bakery,118.7,0,21
+3,cloudy,Chinese,71.0,1,18
+0,clear,North Indian,96.6,0,17
+3,clear,South Indian,47.2,0,10
+0,clear,North Indian,157.8,1,33
+4,clear,Bakery,55.9,0,12
+0,clear,Chinese,131.5,0,29
+1,clear,North Indian,86.3,1,26
+1,clear,South Indian,62.9,1,18
+5,clear,Continental,129.5,0,27
+0,clear,Continental,106.6,1,23
+3,storm,Bakery,153.5,0,35
+4,clear,North Indian,69.3,0,14
+3,clear,North Indian,89.7,0,13
+4,clear,North Indian,24.5,1,22
+5,clear,Chinese,32.6,0,15
+2,clear,Bakery,191.9,0,27
+5,cloudy,Continental,203.3,1,46
+2,storm,South Indian,123.7,1,36
+6,clear,Continental,87.0,1,38
+3,cloudy,Continental,108.1,1,33
+5,clear,South Indian,154.9,0,40
+6,clear,Bakery,99.4,1,34
+5,clear,Chinese,129.5,0,28
+5,clear,North Indian,119.5,1,33
+3,cloudy,Chinese,97.2,1,29
+0,cloudy,Bakery,99.0,0,17
+3,cloudy,Bakery,131.7,0,23
+1,clear,South Indian,80.9,1,31
+6,cloudy,Bakery,138.1,1,40
+1,clear,Chinese,101.1,0,24
+1,clear,Chinese,125.1,0,16
+1,clear,North Indian,175.4,1,52
+4,cloudy,Street Food,113.3,1,29
+3,storm,Street Food,156.8,0,39
+6,clear,South Indian,48.3,1,28
+2,cloudy,Continental,101.2,0,16
+1,cloudy,Bakery,121.1,0,25
+0,rain,Continental,196.9,0,43
+0,clear,South Indian,41.6,1,15
+2,cloudy,Street Food,116.2,0,18
+6,cloudy,South Indian,178.3,0,38
+3,rain,Chinese,88.6,0,19
+6,clear,Chinese,111.5,0,32
+0,rain,Street Food,133.3,0,31
+0,clear,Continental,127.4,1,33
+5,rain,Bakery,182.6,1,55
+0,clear,Street Food,137.9,0,17
+0,clear,Street Food,173.1,1,39
+2,clear,Street Food,105.6,1,30
+6,clear,Street Food,90.4,0,27
+4,clear,Street Food,111.0,0,21
+0,clear,Street Food,73.6,1,29
+5,clear,Continental,139.3,0,35
+5,clear,North Indian,104.6,0,23
+5,cloudy,North Indian,93.1,0,22
+6,rain,Bakery,139.9,1,47
+1,cloudy,South Indian,74.3,1,22
+6,clear,Bakery,150.8,0,39
+2,clear,Street Food,100.9,0,14
+5,rain,Continental,166.4,1,51
+4,clear,Bakery,104.3,1,32
+5,clear,South Indian,145.3,0,31
+4,rain,Chinese,127.2,0,25
+4,storm,Street Food,149.8,0,35
+4,clear,Bakery,124.4,0,26
+5,cloudy,South Indian,53.5,1,24
+5,clear,Street Food,160.4,1,41
+0,cloudy,Chinese,116.5,1,36
+5,clear,Street Food,151.6,1,45
+3,clear,Continental,147.6,1,41
+2,cloudy,Continental,89.1,1,29
+3,clear,North Indian,83.4,0,24
+6,cloudy,Chinese,146.2,0,37
+6,clear,Bakery,107.9,1,33
+5,rain,Street Food,157.5,0,40
+3,rain,North Indian,112.9,1,32
+5,clear,North Indian,160.9,0,33
+2,cloudy,Bakery,136.9,0,19
+4,clear,Chinese,131.5,0,23
+4,clear,Street Food,105.0,0,21
+1,clear,North Indian,129.3,0,23
+1,rain,Chinese,167.7,0,30
+0,rain,North Indian,117.8,0,19
+0,rain,Bakery,141.2,0,38
+3,rain,Street Food,121.9,1,37
+3,storm,North Indian,125.0,0,27
+1,clear,South Indian,188.9,1,46
+2,rain,Street Food,168.1,0,43
+4,cloudy,North Indian,123.2,1,35
+1,clear,Street Food,128.6,1,22
+2,cloudy,Street Food,91.9,1,37
+2,clear,North Indian,113.1,1,23
+3,clear,North Indian,132.4,0,23
+2,clear,Bakery,154.0,1,33
+5,clear,North Indian,150.0,0,30
+2,clear,Continental,75.6,1,25
+3,rain,North Indian,159.1,0,24
+2,cloudy,Continental,116.4,0,21
+1,clear,Chinese,80.5,1,29
+4,clear,Bakery,173.5,1,38
+1,clear,Street Food,178.5,1,37
+2,clear,Chinese,130.5,1,33
+5,rain,Continental,148.4,1,45
+6,clear,Continental,150.7,1,41
+4,cloudy,Street Food,175.8,1,37
+6,cloudy,South Indian,149.1,0,35
+5,cloudy,South Indian,66.9,1,30
+3,rain,Chinese,200.4,1,46
+5,clear,Bakery,162.6,1,42
+2,rain,Street Food,99.6,1,32
+3,cloudy,South Indian,78.8,1,20
+3,cloudy,North Indian,140.2,1,36
+6,cloudy,Continental,108.9,0,31
+5,rain,Continental,133.2,1,44
+3,storm,Chinese,149.7,1,40
+4,clear,South Indian,97.3,1,29
+1,rain,Street Food,75.4,1,27
+5,cloudy,Street Food,135.4,1,40
+3,clear,Bakery,98.7,0,20
+3,rain,Continental,125.8,1,39
+5,clear,South Indian,66.3,1,28
+4,cloudy,Chinese,109.9,1,30
+0,clear,North Indian,148.6,1,45
+2,clear,South Indian,144.2,1,41
+1,rain,Chinese,88.5,1,33
+5,clear,Chinese,73.3,0,20
+0,clear,North Indian,120.6,1,28
+1,clear,Street Food,142.4,1,40
+4,clear,South Indian,136.2,1,35
+4,rain,Continental,99.5,0,20
+3,rain,Chinese,131.9,1,37
+6,clear,Chinese,180.1,0,35
+6,cloudy,Street Food,128.2,0,33
+0,clear,Bakery,54.7,0,13
+6,cloudy,Street Food,128.1,1,40
+4,clear,Chinese,201.8,0,36
+4,clear,South Indian,68.5,0,10
+0,clear,Chinese,121.2,0,13
+4,cloudy,Continental,110.9,1,24
+5,clear,Chinese,123.8,0,25
+4,clear,Chinese,127.8,1,29
+0,rain,North Indian,165.6,0,35
+3,cloudy,Continental,123.4,1,35
+6,clear,Bakery,171.1,1,46
+5,rain,Continental,115.3,0,36
+0,rain,Street Food,106.0,1,30
+6,clear,Street Food,93.2,0,22
+6,cloudy,Street Food,47.3,1,24
+1,clear,North Indian,131.0,1,38
+5,cloudy,Street Food,202.2,0,43
+2,clear,Chinese,138.3,0,25
+4,cloudy,Chinese,147.5,0,20
+3,clear,Chinese,103.5,0,15
+5,clear,South Indian,110.2,1,40
+6,rain,Street Food,159.4,0,30
+5,clear,Continental,200.3,0,47
+6,rain,Street Food,179.5,0,44
+6,storm,Street Food,152.2,1,48
+0,rain,Chinese,121.4,1,33
+1,clear,Bakery,128.4,1,41
+5,rain,Continental,89.9,0,32
+4,clear,Chinese,62.1,1,21
+0,clear,Bakery,74.9,1,24
+0,rain,Bakery,122.0,0,23
+3,cloudy,Street Food,108.3,1,30
+4,clear,Bakery,61.2,0,8
+1,clear,Continental,118.5,1,31
+1,rain,Street Food,107.3,1,41
+0,cloudy,North Indian,73.1,1,23
+3,clear,Bakery,105.2,0,15
+0,rain,Chinese,107.2,1,28
+4,clear,Chinese,95.3,1,28
+3,clear,Bakery,157.1,0,25
+3,cloudy,South Indian,43.9,1,19
+4,storm,Street Food,40.6,0,9
+3,clear,Chinese,120.1,0,24
+5,clear,Chinese,123.8,1,34
+5,clear,South Indian,136.2,0,31
+6,rain,Chinese,98.4,0,26
+5,clear,Street Food,83.3,0,28
+3,clear,North Indian,119.7,1,32
+3,storm,Continental,102.3,0,34
+1,clear,Street Food,182.0,0,35
+4,cloudy,Chinese,107.0,1,35
+0,clear,Continental,117.9,0,20
+6,rain,Chinese,219.0,1,61
+5,clear,North Indian,112.2,1,41
+0,clear,Continental,142.2,1,39
+5,clear,Street Food,145.9,1,44
+0,cloudy,Continental,149.3,0,26
+5,cloudy,Chinese,131.6,0,29
+0,clear,North Indian,127.8,0,28
+3,clear,Street Food,124.0,0,28
+4,rain,Street Food,97.0,1,29
+5,clear,Street Food,133.0,1,37
+2,clear,Chinese,201.1,1,43
+6,cloudy,Continental,168.4,0,40
+5,clear,Chinese,132.2,1,36
+1,clear,South Indian,154.2,1,41
+4,clear,South Indian,85.2,1,28
+5,clear,Chinese,109.6,1,34
+2,clear,Continental,157.9,1,45
+5,cloudy,North Indian,179.5,0,32
+6,cloudy,Bakery,89.2,0,29
+5,clear,Chinese,100.7,1,35
+5,rain,Street Food,207.3,0,39
+4,clear,South Indian,123.9,0,29
+1,cloudy,North Indian,192.9,1,49
+5,clear,South Indian,128.3,1,37
+2,cloudy,Street Food,129.8,0,20
+3,clear,South Indian,107.8,0,13
+2,clear,Bakery,157.7,1,48
+2,clear,Street Food,174.3,1,38
+1,clear,South Indian,78.6,0,9
+6,clear,Continental,105.9,1,36
+1,cloudy,South Indian,156.6,0,22
+0,rain,Chinese,114.8,1,31
+6,clear,South Indian,100.3,0,28
+3,rain,Bakery,160.4,1,45
+3,cloudy,Street Food,164.1,1,38
+5,rain,South Indian,102.0,1,38
+2,cloudy,South Indian,128.5,1,31
+0,cloudy,Bakery,71.7,0,13
+5,clear,Chinese,84.2,0,18
+1,cloudy,Continental,125.0,0,20
+3,rain,Bakery,121.3,0,23
+6,clear,North Indian,81.3,0,18
+6,clear,Street Food,91.4,0,27
+2,clear,Chinese,77.4,1,27
+5,rain,Continental,138.2,0,31
+4,clear,Chinese,41.3,0,3
+3,cloudy,Bakery,79.5,1,24
+0,rain,Continental,45.5,1,31
+2,storm,South Indian,136.8,0,29
+4,clear,South Indian,47.9,1,18
+6,cloudy,Street Food,121.3,0,28
+0,rain,Continental,185.6,1,47
+5,clear,South Indian,186.9,0,38
+5,cloudy,North Indian,47.8,1,29
+6,clear,North Indian,131.9,1,42
+2,cloudy,Street Food,80.4,0,18
+0,clear,Street Food,72.3,1,25
+1,clear,Chinese,115.5,0,24
+5,clear,South Indian,169.1,1,53
+6,clear,Chinese,144.0,0,37
+4,clear,North Indian,91.4,1,36
+0,cloudy,Continental,148.2,1,42
+0,clear,Continental,30.3,1,13
+3,clear,Street Food,89.9,0,20
+4,cloudy,South Indian,87.0,0,19
+0,cloudy,South Indian,123.1,0,30
+4,clear,North Indian,111.9,1,26
+3,rain,Chinese,114.3,1,37
+0,clear,Continental,113.0,1,28
+0,rain,North Indian,120.9,1,38
+3,clear,Bakery,141.6,0,25
+5,cloudy,Chinese,126.0,1,41
+5,storm,Bakery,108.6,1,38
+3,rain,Chinese,136.1,1,42
+2,cloudy,North Indian,153.0,1,38
+6,cloudy,North Indian,97.8,1,34
+3,clear,Continental,117.6,1,39
+2,cloudy,Continental,166.5,1,38
+3,cloudy,Bakery,75.9,0,15
+0,storm,Street Food,192.2,1,53
+2,clear,North Indian,66.4,0,13
+3,clear,South Indian,106.2,1,38
+6,cloudy,South Indian,82.0,1,31
+5,clear,North Indian,207.5,1,51
+5,clear,North Indian,99.9,0,31
+3,clear,North Indian,100.0,0,17
+0,cloudy,Continental,105.2,0,13
+2,clear,North Indian,123.8,1,29
+6,clear,South Indian,106.9,0,20
+0,clear,North Indian,114.7,1,23
+6,rain,Bakery,20.0,0,12
+4,cloudy,Continental,122.3,1,32
+1,clear,Street Food,120.7,1,36
+5,clear,North Indian,161.5,1,48
+5,cloudy,South Indian,172.4,1,49
+0,clear,Chinese,112.5,0,17
+0,cloudy,Continental,152.6,1,41
+4,clear,North Indian,75.9,0,19
+6,rain,South Indian,150.7,0,39
+0,clear,Chinese,97.1,0,19
+4,cloudy,North Indian,72.6,0,8
+0,clear,Chinese,112.6,1,34
+4,storm,Bakery,176.0,0,47
+4,storm,Continental,127.2,1,42
+0,cloudy,Chinese,179.9,0,30
+4,clear,Chinese,90.1,1,26
+6,clear,Street Food,161.9,1,43
+6,rain,Continental,93.9,0,25
+0,cloudy,Continental,129.0,0,26
+1,clear,Street Food,128.7,0,24
+1,clear,North Indian,146.5,0,30
+3,clear,North Indian,130.0,0,25
+1,rain,Chinese,90.4,1,27
+5,cloudy,South Indian,155.2,0,32
+5,cloudy,South Indian,189.3,1,48
+5,cloudy,North Indian,96.6,0,23
+1,clear,Street Food,46.6,0,16
+0,clear,Continental,140.0,1,43
+6,clear,Bakery,106.8,1,39
+2,cloudy,North Indian,114.8,1,31
+4,clear,Chinese,142.2,1,30
+6,clear,Continental,101.7,0,25
+0,clear,Continental,109.2,1,27
+0,clear,Bakery,116.0,0,27
+0,cloudy,Bakery,178.8,1,36
+1,clear,Chinese,121.2,1,33
+0,clear,Bakery,70.6,0,9
+5,cloudy,South Indian,72.2,1,29
+4,clear,North Indian,125.6,0,25
+6,clear,Street Food,74.8,0,24
+5,clear,North Indian,57.5,0,16
+6,rain,South Indian,145.4,0,39
+1,clear,North Indian,147.4,1,34
+2,cloudy,South Indian,105.3,0,20
+5,rain,Chinese,131.7,1,48
+1,cloudy,North Indian,127.5,0,24
+0,clear,Chinese,144.1,1,34
+4,cloudy,Street Food,144.2,1,35
+5,clear,North Indian,20.0,1,24
+6,clear,Street Food,110.4,0,22
+6,clear,Chinese,140.7,0,28
+0,clear,Continental,103.6,0,21
+5,clear,Chinese,121.4,0,26
+5,clear,South Indian,150.0,0,27
+4,clear,North Indian,123.2,0,28
+5,clear,Continental,180.3,1,44
+5,cloudy,Street Food,165.1,0,35
+3,rain,Continental,115.3,1,32
+0,clear,Continental,112.1,1,29
+3,cloudy,Continental,20.0,1,10
+1,clear,Chinese,106.9,1,32
+0,clear,North Indian,65.9,1,22
+0,clear,Continental,128.8,0,27
+4,clear,Street Food,126.1,0,20
+3,clear,South Indian,147.8,1,45
+3,clear,Street Food,175.9,0,24
+5,clear,Street Food,118.9,0,21
+3,clear,South Indian,211.2,0,45
+4,clear,Continental,129.3,1,35
+0,clear,Bakery,67.6,0,14
+5,clear,Chinese,97.5,0,25
+3,clear,Bakery,105.1,1,31
+1,clear,Street Food,143.7,1,37
+5,clear,Continental,82.1,1,27
+5,clear,Street Food,108.1,0,29
+0,clear,Bakery,113.6,1,33
+1,rain,Bakery,102.1,0,28
+0,clear,Street Food,152.5,1,44
+1,clear,South Indian,145.7,1,38
+0,clear,North Indian,166.7,0,25
+4,storm,North Indian,106.8,0,34
+3,cloudy,South Indian,168.1,0,26
+6,cloudy,Bakery,65.4,0,19
+5,storm,Continental,64.5,1,35
+4,clear,Chinese,71.4,0,11
+3,storm,North Indian,120.4,1,43
+0,clear,Bakery,168.1,1,41
+0,cloudy,Chinese,95.9,0,19
+4,clear,Bakery,100.9,0,15
+0,clear,North Indian,111.4,0,19
+0,rain,South Indian,142.9,1,37
+1,clear,North Indian,100.9,0,17
+6,storm,South Indian,98.7,1,41
+3,clear,Street Food,66.2,0,19
+4,cloudy,Chinese,97.1,1,26
+2,storm,Chinese,167.1,0,30
+1,clear,South Indian,123.6,0,28
+2,rain,South Indian,90.4,0,22
+0,cloudy,Bakery,169.4,1,40
+5,cloudy,Street Food,96.6,0,22
+1,clear,Bakery,176.8,0,28
+2,clear,Bakery,176.1,1,49
+6,cloudy,Chinese,122.2,1,38
+4,clear,North Indian,60.1,0,4
+3,clear,Bakery,211.6,0,39
+3,clear,Bakery,135.5,0,29
+5,rain,Continental,107.0,1,40
+1,clear,North Indian,158.2,0,25
+4,cloudy,Bakery,148.1,1,33
+6,storm,Street Food,172.4,0,41
+4,clear,South Indian,93.5,0,23
+3,clear,North Indian,132.7,0,24
+1,cloudy,Bakery,72.6,0,6
+1,clear,South Indian,146.7,1,38
+6,cloudy,Bakery,119.1,0,28
+3,cloudy,Bakery,131.2,0,22
+2,cloudy,South Indian,114.1,1,26
+2,clear,North Indian,110.0,0,16
+4,cloudy,Continental,85.3,0,20
+3,cloudy,Chinese,151.6,1,38
+4,clear,Street Food,179.6,1,44
+1,cloudy,Chinese,97.7,1,29
+4,rain,South Indian,142.1,1,41
+3,cloudy,Street Food,137.3,0,23
+6,clear,Bakery,120.3,1,37
+1,clear,Continental,58.9,1,25
+1,clear,Street Food,67.9,0,18
+3,clear,Bakery,88.8,1,21
+3,clear,Street Food,34.4,0,5
+4,storm,Bakery,176.3,0,43
+2,clear,Chinese,134.7,0,32
+6,rain,North Indian,118.8,1,49
+3,clear,Continental,32.4,1,13
+0,clear,Bakery,47.0,0,14
+0,clear,Street Food,119.9,0,22
+6,clear,Bakery,198.8,1,56
+0,cloudy,Continental,92.1,0,20
+6,storm,Continental,154.6,0,37
+1,rain,North Indian,100.8,0,24
+0,clear,North Indian,122.2,1,36
+2,cloudy,North Indian,168.6,1,40
+4,clear,Street Food,106.2,0,18
+2,rain,Bakery,92.4,1,24
+5,clear,South Indian,176.7,1,51
+4,clear,Chinese,121.8,0,23
+2,clear,Chinese,163.6,1,36
+4,clear,South Indian,92.6,0,15
+6,clear,Chinese,176.3,0,38
+2,rain,Chinese,130.9,0,25
+1,cloudy,Bakery,137.4,1,35
+2,storm,Bakery,125.3,0,24
+5,clear,North Indian,99.8,0,29
+1,cloudy,Chinese,119.9,1,32
+6,clear,Street Food,102.3,1,30
+4,clear,Street Food,158.4,0,19
+4,clear,Bakery,111.9,0,24
+2,clear,Bakery,60.1,1,23
+6,cloudy,North Indian,52.8,1,26
+0,clear,Street Food,50.9,1,23
+2,clear,Bakery,144.7,1,39
+2,cloudy,Street Food,73.9,1,24
+3,clear,Street Food,132.0,0,23
+3,rain,South Indian,125.5,0,25
+1,clear,North Indian,117.4,1,33
+1,rain,Continental,137.5,1,44
+0,cloudy,Chinese,126.3,0,22
+4,cloudy,North Indian,20.0,0,10
+2,cloudy,South Indian,107.1,1,31
+3,rain,Street Food,137.0,0,30
+4,cloudy,Chinese,185.6,0,43
+4,clear,South Indian,187.5,1,50
+3,clear,Continental,65.5,0,18
+4,cloudy,Continental,106.0,0,16
+4,clear,South Indian,57.4,0,19
+4,clear,Street Food,180.8,0,32
+4,clear,Continental,160.5,1,38
+2,clear,North Indian,134.0,0,15
+1,clear,South Indian,126.6,0,24
+5,cloudy,Street Food,175.2,0,33
+2,cloudy,North Indian,168.5,0,32
+3,rain,North Indian,166.3,1,39
+1,clear,Continental,138.3,0,32
+3,clear,Chinese,106.0,1,31
+3,cloudy,South Indian,150.7,0,36
+4,clear,Chinese,152.6,1,33
+3,cloudy,South Indian,112.4,0,26
+2,clear,Chinese,106.0,0,12
+6,storm,South Indian,165.3,0,45
+3,clear,Continental,186.6,0,31
+5,rain,Bakery,90.0,0,24
+5,cloudy,Street Food,109.5,0,24
+3,clear,North Indian,134.0,0,20
+6,cloudy,South Indian,139.5,1,36
+0,clear,South Indian,99.1,1,26
+6,cloudy,Continental,195.3,1,52
+5,cloudy,Continental,136.9,0,35
+3,clear,Street Food,141.3,1,37
+5,clear,Street Food,190.4,1,55
+3,cloudy,Bakery,102.0,1,22
+1,clear,South Indian,116.5,0,19
+5,rain,North Indian,69.9,1,35
+1,cloudy,Street Food,113.1,1,32
+2,cloudy,Street Food,60.4,0,7
+3,clear,South Indian,149.9,1,41
+5,cloudy,North Indian,136.8,1,38
+2,rain,Bakery,108.9,1,30
+3,clear,Continental,116.0,1,33
+0,clear,Street Food,150.5,1,37
+0,clear,Continental,74.6,1,21
+0,clear,Bakery,128.2,1,31
+0,cloudy,Bakery,148.0,0,22
+6,clear,North Indian,48.7,1,23
+5,cloudy,North Indian,147.4,1,47
+5,clear,Bakery,53.0,1,27
+0,clear,South Indian,115.3,0,25
+0,clear,South Indian,73.5,0,15
+1,rain,Bakery,177.2,1,43
+3,cloudy,South Indian,73.7,1,17
+2,clear,North Indian,54.0,1,16
+3,cloudy,North Indian,125.3,0,20
+1,clear,Chinese,103.5,1,26
+5,clear,Continental,59.8,1,31
+2,clear,Bakery,141.0,0,29
+0,storm,Street Food,40.3,0,24
+5,cloudy,Continental,78.6,0,17
+6,cloudy,Bakery,97.0,1,40
+0,clear,South Indian,152.1,1,44
+3,clear,Chinese,171.8,1,40
+5,cloudy,South Indian,164.1,1,47
+4,clear,North Indian,113.9,0,25
+5,rain,Street Food,22.9,1,24
+2,cloudy,South Indian,135.6,0,24
+2,clear,Chinese,178.8,0,30
+4,cloudy,Chinese,169.4,0,21
+1,storm,North Indian,138.5,1,43
+1,clear,Street Food,72.4,1,20
+4,cloudy,South Indian,99.0,1,24
+4,rain,North Indian,197.4,1,51
+0,clear,Chinese,63.3,0,6
+3,rain,North Indian,74.1,1,31
+2,clear,Street Food,157.7,0,30
+3,cloudy,South Indian,102.8,1,27
+6,cloudy,South Indian,72.7,1,29
+0,cloudy,South Indian,181.1,1,38
+6,clear,North Indian,138.4,0,34
+3,cloudy,North Indian,104.7,1,30
+5,clear,Continental,74.2,1,30
+2,clear,South Indian,201.9,0,38
+2,clear,North Indian,119.0,1,29
+5,cloudy,South Indian,175.9,1,42
+4,clear,South Indian,155.7,0,32
+1,clear,Chinese,99.2,0,21
+4,rain,Street Food,99.5,0,20
+5,clear,South Indian,177.9,1,50
+2,clear,Bakery,178.5,1,47
+6,clear,Bakery,44.9,1,29
+4,clear,North Indian,142.0,1,33
+2,cloudy,Continental,115.2,1,25
+0,clear,Chinese,78.7,1,19
+4,clear,Continental,130.5,0,22
+1,storm,South Indian,66.0,1,36
+5,rain,Chinese,101.3,0,25
+3,cloudy,North Indian,88.1,1,23
+3,rain,Street Food,100.0,0,20
+1,rain,Continental,117.1,1,33
+4,clear,North Indian,79.4,1,24
+1,cloudy,Continental,182.9,1,38
+2,cloudy,Street Food,139.7,0,29
+5,clear,Bakery,191.8,1,50
+6,clear,South Indian,113.6,1,46
+6,clear,Street Food,98.0,0,19
+6,cloudy,South Indian,190.3,1,57
+3,cloudy,South Indian,96.9,0,23
+1,cloudy,North Indian,112.9,0,19
+5,clear,Street Food,148.8,1,41
+5,clear,Bakery,70.5,1,25
+6,clear,Continental,148.5,0,29
+4,clear,Bakery,143.3,1,36
+0,rain,South Indian,170.8,1,45
+3,rain,North Indian,155.6,1,36
+3,rain,Street Food,172.0,1,54
+5,rain,Street Food,115.6,1,40
+2,storm,North Indian,85.5,0,24
+2,clear,North Indian,204.4,0,34
+0,clear,Continental,58.9,0,10
+5,clear,North Indian,62.9,1,26
+5,clear,Bakery,142.6,1,42
+0,clear,Street Food,185.0,1,43
+3,clear,South Indian,127.6,0,26
+3,storm,South Indian,160.0,1,48
+3,clear,Street Food,40.2,1,20
+6,storm,Chinese,100.0,1,42
+1,cloudy,South Indian,45.0,1,19
+2,cloudy,North Indian,151.2,0,26
+1,cloudy,Street Food,58.1,0,14
+1,clear,Street Food,68.9,1,24
+6,cloudy,North Indian,140.6,1,41
+6,clear,Bakery,162.5,1,44
+0,rain,North Indian,113.6,1,34
+4,clear,North Indian,142.8,1,36
+1,clear,Chinese,141.5,0,25
+1,cloudy,Chinese,111.4,1,28
+2,cloudy,Street Food,76.2,0,17
+1,clear,Bakery,142.6,0,29
+3,cloudy,North Indian,144.5,0,33
+6,clear,Continental,155.8,1,42
+4,cloudy,Street Food,132.5,1,37
+5,clear,Continental,73.3,1,22
+3,clear,South Indian,147.6,0,30
+0,clear,North Indian,119.9,1,26
+0,clear,Chinese,100.7,0,14
+1,clear,Chinese,108.2,0,21
+1,clear,Chinese,92.4,0,14
+5,clear,North Indian,155.6,1,41
+5,clear,North Indian,63.3,0,15
+5,clear,Continental,80.3,0,23
+4,clear,Street Food,106.8,0,16
+3,cloudy,Continental,184.6,1,43
+4,rain,Chinese,162.2,1,42
+2,clear,Street Food,54.4,0,13
+4,rain,Bakery,174.1,0,39
+5,clear,Bakery,174.0,0,30
+5,clear,Continental,73.0,1,33
+4,cloudy,Bakery,20.0,0,1
+0,cloudy,Continental,117.1,0,22
+5,rain,Continental,164.9,0,36
+2,clear,Continental,183.7,0,35
+5,cloudy,Bakery,85.2,0,32
+3,clear,Street Food,190.1,0,35
+6,clear,South Indian,30.9,0,10
+2,clear,Bakery,105.3,1,28
+6,storm,North Indian,103.3,0,27
+5,clear,Continental,166.1,1,52
+2,rain,Street Food,171.9,0,36
+3,cloudy,Continental,158.2,0,24
+3,cloudy,South Indian,66.0,0,8
+5,cloudy,Continental,154.5,1,44
+4,rain,Chinese,140.4,1,43
+5,clear,Chinese,53.2,0,11
+2,clear,South Indian,37.3,1,21
+3,cloudy,Continental,161.5,1,39
+3,clear,South Indian,112.8,0,17
+6,clear,Chinese,68.6,1,26
+2,clear,Street Food,111.7,0,27
+4,clear,Bakery,134.6,0,19
+0,clear,Chinese,116.7,1,28
+5,clear,Street Food,57.9,0,20
+2,rain,North Indian,195.4,0,40
+2,clear,Street Food,160.2,0,26
+4,storm,Chinese,106.6,1,41
+3,storm,Bakery,108.2,1,42
+5,clear,Street Food,134.4,0,32
+3,cloudy,Continental,74.8,0,11
+3,cloudy,Continental,132.9,0,22
+0,cloudy,Bakery,66.8,1,23
+0,clear,South Indian,117.2,1,26
+2,clear,South Indian,73.3,0,18
+6,clear,Chinese,75.3,1,36
+6,cloudy,Chinese,185.8,1,49
+4,storm,Bakery,122.4,0,31
+4,cloudy,South Indian,128.3,0,28
+2,cloudy,Continental,39.5,0,15
+1,storm,North Indian,96.1,1,42
+0,cloudy,North Indian,138.4,1,28
+2,clear,Street Food,127.8,0,22
+2,rain,Street Food,33.8,0,12
+1,clear,Street Food,128.3,0,21
+1,clear,South Indian,134.7,0,31
+0,clear,Continental,171.4,0,37
+4,rain,Bakery,93.8,0,18
+6,clear,South Indian,30.3,1,21
+4,clear,Bakery,80.1,1,21
+3,clear,Bakery,76.1,0,13
+2,clear,Chinese,149.5,1,36
+2,clear,Chinese,20.0,1,17
+0,cloudy,South Indian,102.1,1,25
+4,rain,Bakery,177.0,1,35
+3,clear,Street Food,120.3,1,25
+0,clear,Street Food,155.9,0,24
+2,clear,Bakery,54.3,1,17
+1,clear,Chinese,55.9,0,11
+1,cloudy,Bakery,177.5,1,38
+4,cloudy,South Indian,124.0,0,17
+3,cloudy,Street Food,124.1,0,19
+4,clear,South Indian,75.3,0,9
+4,cloudy,Chinese,124.0,0,20
+6,clear,North Indian,74.2,0,17
+5,clear,North Indian,167.5,1,49
+4,rain,Chinese,229.1,1,51
+6,cloudy,Continental,139.4,0,30
+3,rain,North Indian,94.6,0,19
+6,rain,Street Food,20.0,0,17
+5,cloudy,North Indian,52.6,0,15
+4,rain,Street Food,182.2,1,51
+6,clear,South Indian,78.8,1,26
+3,clear,Chinese,105.2,0,19
+5,clear,North Indian,146.2,0,30
+1,clear,Bakery,179.3,1,37
+6,clear,Bakery,112.0,1,36
+4,clear,North Indian,103.8,0,26
+5,cloudy,North Indian,122.9,1,35
+3,cloudy,Continental,94.9,0,17
+6,cloudy,Street Food,97.0,0,18
+0,clear,North Indian,136.5,1,29
+0,cloudy,South Indian,127.4,1,30
+3,clear,Continental,205.3,0,35
+5,clear,North Indian,137.6,1,39
+5,clear,South Indian,166.0,0,35
+3,clear,North Indian,77.1,1,17
+4,clear,Chinese,141.0,0,23
+3,rain,Bakery,91.1,1,32
+6,cloudy,Chinese,135.8,1,35
+4,cloudy,South Indian,147.5,1,35
+2,clear,Chinese,122.0,1,33
+6,rain,Continental,216.3,1,56
+0,cloudy,North Indian,177.1,0,33
+6,clear,North Indian,167.1,1,40
+1,cloudy,South Indian,150.6,0,31
+2,clear,Street Food,190.5,1,46
+5,clear,Bakery,62.5,0,17
+5,clear,North Indian,174.8,1,52
+6,clear,South Indian,80.4,0,19
+5,clear,Chinese,97.4,1,31
+4,clear,South Indian,142.5,0,31
+2,clear,Street Food,169.3,0,38
+0,storm,Street Food,73.9,0,19
+0,clear,South Indian,99.5,1,27
+2,clear,North Indian,123.9,0,26
+0,clear,South Indian,112.5,0,20
+3,rain,Continental,154.2,0,34
+5,cloudy,Bakery,257.4,0,55
+6,rain,Chinese,136.8,1,42
+3,clear,South Indian,90.6,0,18
+6,clear,South Indian,68.1,0,18
+6,cloudy,North Indian,107.0,0,20
+6,clear,North Indian,82.4,0,17
+3,rain,Chinese,138.7,1,36
+2,rain,Continental,138.1,0,33
+6,clear,North Indian,101.5,0,28
+1,storm,South Indian,199.4,1,57
+2,cloudy,Street Food,90.6,1,28
+0,clear,Street Food,115.2,0,22
+5,clear,Continental,145.6,1,43
+4,clear,Continental,155.7,1,40
+0,rain,Continental,171.1,0,37
+1,clear,Chinese,137.1,1,29
+3,clear,South Indian,162.0,0,26
+3,cloudy,Chinese,93.4,0,13
+5,clear,Bakery,156.7,1,49
+1,clear,Continental,156.2,1,45
+6,cloudy,Bakery,180.5,1,40
+3,clear,Continental,53.3,0,16
+5,clear,North Indian,83.7,0,21
+1,clear,Continental,152.9,1,42
+0,clear,Street Food,20.0,0,6
+0,clear,Continental,139.7,1,41
+2,cloudy,Continental,162.4,0,30
+6,storm,South Indian,96.9,0,26
+0,clear,Bakery,102.8,0,18
+2,storm,Chinese,77.0,1,34
+0,cloudy,South Indian,99.1,0,17
+6,cloudy,Chinese,100.3,1,37
+4,cloudy,North Indian,92.7,1,26
+5,cloudy,Street Food,90.5,0,20
+4,rain,Bakery,109.2,0,19
+4,clear,South Indian,108.7,1,28
+5,clear,Bakery,195.0,0,42
+0,clear,North Indian,104.2,0,11
+6,clear,Chinese,133.8,1,37
+5,cloudy,Continental,96.9,0,15
+5,clear,North Indian,96.4,1,31
+2,clear,Bakery,51.8,0,14
+5,clear,Bakery,57.1,0,12
+2,clear,Continental,71.7,1,26
+0,cloudy,South Indian,127.3,1,44
+6,cloudy,Bakery,163.0,0,41
+1,clear,Chinese,48.5,1,19
+0,clear,Bakery,98.0,1,31
+4,clear,Continental,65.3,0,6
+1,clear,North Indian,109.4,0,13
+6,cloudy,North Indian,163.0,0,35
+3,cloudy,North Indian,102.1,1,30
+0,clear,North Indian,118.1,1,36
+6,clear,South Indian,178.2,0,36
+3,storm,North Indian,138.3,1,44
+1,cloudy,Street Food,89.6,1,27
+4,clear,Street Food,126.4,1,32
+3,clear,South Indian,86.9,1,25
+0,clear,South Indian,136.8,0,21
+5,rain,Bakery,140.6,0,36
+2,clear,Continental,65.3,1,23
+4,clear,Continental,127.0,0,21
+6,storm,Street Food,115.3,0,37
+4,cloudy,Continental,141.8,1,40
+4,clear,Bakery,153.3,1,40
+1,clear,Continental,139.1,1,31
+1,clear,Continental,107.9,1,30
+2,cloudy,South Indian,157.3,1,35
+5,clear,Continental,85.1,0,22
+3,rain,Street Food,67.2,0,12
+2,rain,Chinese,20.0,0,13
+5,clear,North Indian,117.2,1,40
+5,cloudy,Continental,87.1,1,36
+6,clear,Bakery,135.9,1,45
+2,clear,Street Food,41.2,1,16
+4,cloudy,Continental,94.1,1,25
+4,clear,Bakery,138.8,0,32
+3,clear,South Indian,78.8,1,24
+2,clear,Chinese,136.4,1,29
+0,clear,Chinese,97.7,1,32
+1,clear,South Indian,118.7,0,22
+3,cloudy,Bakery,143.8,1,42
+6,rain,Street Food,158.1,0,39
+6,cloudy,South Indian,123.7,0,28
+1,rain,North Indian,87.4,0,26
+4,clear,Bakery,101.7,0,12
+0,rain,Street Food,145.5,1,38
+4,clear,Street Food,79.1,0,11
+2,clear,South Indian,112.9,0,12
+3,rain,Bakery,104.6,1,36
+5,clear,Bakery,115.9,1,35
+2,clear,Bakery,79.6,1,28
+5,clear,Bakery,45.9,0,16
+3,clear,Street Food,140.8,0,28
+6,clear,Chinese,158.6,1,43
+4,clear,North Indian,48.3,0,6
+2,rain,South Indian,134.8,1,39
+5,clear,Street Food,163.3,0,39
+2,clear,Street Food,143.8,0,26
+3,clear,North Indian,103.3,1,26
+0,rain,Chinese,82.3,0,14
+0,clear,South Indian,123.2,1,33
+4,clear,South Indian,129.9,0,21
+1,clear,Continental,123.8,1,32
+6,cloudy,Continental,112.8,0,25
+5,cloudy,Chinese,76.7,0,18
+4,cloudy,Chinese,136.9,1,36
+5,cloudy,Continental,138.8,1,43
+4,clear,Bakery,128.0,1,41
+0,clear,North Indian,124.4,1,35
+2,clear,North Indian,187.2,0,40
+3,clear,Chinese,95.0,1,24
+6,clear,Chinese,171.3,1,40
+1,clear,Street Food,90.6,1,26
+3,clear,Street Food,164.4,0,33
+2,cloudy,Continental,169.3,1,43
+0,clear,North Indian,108.3,0,24
+0,cloudy,North Indian,186.4,0,23
+2,cloudy,Chinese,138.8,0,30
+0,clear,Continental,84.9,1,27
+0,clear,Continental,105.0,0,13
+2,cloudy,North Indian,165.3,0,33
+1,cloudy,Street Food,156.9,1,39
+3,clear,Chinese,77.7,0,16
+0,clear,Continental,114.4,0,25
+2,cloudy,North Indian,128.1,1,35
+3,cloudy,Bakery,99.7,1,22
+6,clear,Continental,214.3,0,44
+4,clear,South Indian,129.3,0,17
+6,rain,South Indian,117.5,0,34
+2,clear,Chinese,167.6,1,46
+3,rain,North Indian,105.4,0,18
+2,clear,Street Food,160.3,0,26
+6,clear,Bakery,53.3,0,12
+6,clear,Street Food,101.9,0,23
+6,clear,Chinese,162.0,1,47
+5,rain,Continental,182.8,0,41
+3,clear,Chinese,89.1,1,29
+3,storm,Chinese,84.4,0,27
+6,clear,Continental,142.7,0,36
+1,rain,Chinese,95.1,0,17
+2,rain,Bakery,109.3,0,29
+6,cloudy,North Indian,155.1,0,40
+2,clear,South Indian,98.2,1,34
+1,cloudy,Street Food,41.4,1,17
+3,clear,Street Food,68.0,1,19
+2,rain,Bakery,120.4,0,22
+6,clear,Chinese,45.5,0,10
+6,clear,Chinese,108.1,1,36
+2,clear,North Indian,64.3,1,25
+3,cloudy,South Indian,185.6,1,49
+6,storm,Bakery,206.6,1,59
+5,clear,Chinese,77.7,1,30
+1,cloudy,Chinese,130.3,1,33
+4,rain,North Indian,81.6,1,26
+4,clear,Chinese,107.6,1,32
+4,clear,Bakery,192.1,0,36
+0,cloudy,Continental,101.3,0,19
+2,cloudy,Continental,108.6,1,31
+5,clear,Street Food,82.3,1,33
+1,rain,South Indian,165.8,1,46
+2,clear,South Indian,20.0,1,10
+2,rain,Continental,102.3,1,36
+1,rain,Chinese,118.2,0,26
+1,rain,Street Food,93.6,0,19
+2,clear,North Indian,154.5,0,29
+6,clear,North Indian,168.1,1,48
+0,clear,Chinese,63.5,1,26
+1,clear,Chinese,203.7,0,32
+0,cloudy,Street Food,63.1,0,17
+3,clear,Chinese,171.5,0,31
+1,clear,Chinese,126.0,1,31
+5,clear,South Indian,99.9,0,22
+4,clear,Chinese,103.6,1,25
+5,clear,Continental,118.7,0,20
+4,cloudy,Continental,128.3,0,26
+3,cloudy,Continental,83.2,1,33
+6,clear,Chinese,110.6,1,29
+3,rain,North Indian,89.2,1,26
+6,rain,North Indian,71.4,0,26
+6,clear,North Indian,87.3,0,22
+4,cloudy,Continental,74.0,0,17
+4,clear,Street Food,103.2,1,28
+1,clear,Street Food,137.3,0,22
+5,clear,South Indian,124.8,1,38
+4,clear,North Indian,199.0,0,26
+6,rain,Continental,31.6,1,21
+1,rain,North Indian,138.8,0,33
+5,rain,Continental,120.3,1,46
+3,cloudy,Chinese,152.6,1,43
+1,cloudy,Street Food,148.7,0,29
+1,storm,Continental,113.4,1,29
+3,clear,Bakery,126.9,0,20
+2,clear,Chinese,90.2,1,32
+0,cloudy,Street Food,144.5,1,43
+2,clear,Continental,44.8,0,14
+4,clear,Continental,151.1,0,26
+2,clear,Chinese,119.1,0,16
+6,cloudy,Chinese,100.5,1,34
+5,clear,Street Food,110.7,0,26
+3,clear,Chinese,113.6,1,37
+6,clear,North Indian,171.9,1,48
+3,clear,Chinese,249.3,1,55
+0,rain,Chinese,168.8,1,45
+0,clear,Chinese,97.4,0,19
+6,cloudy,North Indian,145.2,1,45
+6,cloudy,North Indian,146.9,1,40
+5,clear,South Indian,83.0,0,17
+0,rain,Chinese,69.6,1,32
+2,cloudy,North Indian,117.5,0,15
+0,cloudy,Chinese,152.3,0,34
+0,clear,South Indian,55.5,1,12
+1,clear,North Indian,91.2,0,14
+4,storm,South Indian,142.9,1,48
+0,cloudy,South Indian,121.7,0,22
+6,rain,North Indian,176.7,1,47
+3,rain,Bakery,63.5,0,17
+1,clear,North Indian,214.1,1,49
+3,cloudy,Continental,58.5,1,20
+5,clear,Continental,38.8,1,20
+2,cloudy,Bakery,117.6,1,31
+0,clear,Continental,74.6,1,21
+0,clear,Continental,118.4,0,31
+5,cloudy,Bakery,117.1,1,36
+0,cloudy,Street Food,112.2,1,29
+4,cloudy,South Indian,86.3,0,13
+2,clear,Bakery,137.3,0,32
+5,clear,Chinese,107.3,1,29
+0,storm,North Indian,164.1,0,39
+6,clear,Continental,112.8,1,35
+4,clear,Street Food,81.4,0,9
+3,cloudy,North Indian,52.5,1,16
+1,clear,North Indian,113.1,1,32
+6,cloudy,Street Food,69.2,1,25
+2,clear,Continental,66.0,1,23
+3,rain,South Indian,141.1,1,46
+2,rain,Bakery,48.9,1,23
+1,rain,Chinese,176.5,0,30
+2,cloudy,South Indian,126.4,1,29
+1,clear,South Indian,118.2,1,30
+0,cloudy,Continental,78.6,0,13
+2,rain,North Indian,150.6,0,32
+0,cloudy,Chinese,119.9,1,33
+2,cloudy,South Indian,92.6,1,34
+6,cloudy,North Indian,128.0,0,29
+1,cloudy,Bakery,52.7,0,5
+0,cloudy,North Indian,54.6,0,14
+0,clear,Street Food,75.2,1,29
+3,clear,North Indian,134.0,1,35
+1,cloudy,Chinese,119.9,0,21
+3,clear,North Indian,162.0,0,32
+0,rain,Chinese,83.2,0,18
+2,cloudy,Continental,143.0,0,18
+2,clear,North Indian,115.4,1,33
+3,rain,Continental,82.3,0,22
+3,cloudy,Bakery,135.4,1,40
+5,cloudy,Chinese,117.4,0,24
+3,clear,North Indian,94.8,0,18
+5,rain,Bakery,121.7,1,43
+3,clear,South Indian,114.8,1,31
+1,cloudy,North Indian,113.9,0,21
+1,clear,Chinese,103.5,1,29
+2,cloudy,South Indian,67.8,1,23
+4,cloudy,North Indian,123.0,0,25
+1,cloudy,Bakery,87.9,1,31
+6,clear,Continental,79.2,1,27
+3,rain,Street Food,110.4,1,33
+6,cloudy,Chinese,149.4,0,31
+4,clear,Chinese,127.4,0,21
+2,storm,Street Food,98.8,1,29
+1,cloudy,North Indian,97.1,1,28
+5,storm,Chinese,145.4,1,52
+2,storm,Bakery,24.1,0,12
+1,rain,South Indian,151.9,1,41
+6,cloudy,Street Food,45.0,0,16
+3,cloudy,South Indian,63.4,0,17
+0,clear,Chinese,99.4,1,26
+3,clear,Street Food,206.8,1,43
+3,cloudy,South Indian,187.1,0,33
+6,clear,Street Food,148.3,0,40
+4,rain,North Indian,134.3,1,34
+1,clear,South Indian,45.5,1,21
+1,clear,Continental,126.3,0,27
+4,clear,Continental,98.0,1,18
+0,clear,Street Food,87.3,1,27
+2,clear,Street Food,126.2,1,35
+0,clear,Bakery,101.2,1,27
+0,rain,Continental,154.8,0,29
+6,clear,South Indian,42.6,1,21
+0,clear,Bakery,123.0,1,31
+0,clear,Continental,84.8,0,14
+6,clear,North Indian,103.6,0,23
+1,clear,Bakery,132.2,0,22
+5,cloudy,Chinese,75.3,1,34
+0,cloudy,Chinese,126.6,1,28
+1,clear,Chinese,111.5,0,13
+0,cloudy,Bakery,93.6,1,32
+4,clear,South Indian,101.2,0,17
+4,clear,Chinese,113.8,0,19
+3,rain,North Indian,89.3,0,20
+1,clear,Chinese,120.3,0,22
+0,rain,North Indian,108.9,1,32
+3,clear,Continental,95.5,1,29
+1,clear,Street Food,183.6,0,29
+4,clear,Chinese,136.6,1,33
+4,clear,Street Food,104.7,0,10
+5,storm,Street Food,125.8,1,51
+3,clear,North Indian,78.9,1,24
+0,rain,Continental,102.5,1,35
+1,rain,Continental,107.2,1,35
+5,cloudy,Chinese,70.1,0,21
+3,clear,Bakery,135.5,0,24
+4,clear,Chinese,99.8,0,20
+3,clear,North Indian,105.8,0,15
+1,cloudy,Continental,97.3,1,23
+6,clear,South Indian,238.4,1,59
+5,rain,Chinese,93.5,1,34
+6,cloudy,Continental,37.3,0,18
+5,clear,Bakery,56.0,0,18
+2,cloudy,South Indian,150.4,1,34
+1,clear,Chinese,173.5,1,40
+1,rain,North Indian,92.7,0,21
+6,clear,Chinese,171.2,0,37
+3,storm,Continental,149.7,0,36
+3,rain,Continental,112.4,0,25
+6,rain,South Indian,109.6,1,34
+4,clear,North Indian,127.2,1,24
+6,rain,Continental,155.1,0,36
+6,clear,Continental,135.9,0,33
+0,cloudy,North Indian,92.9,1,25
+2,clear,Continental,113.0,0,25
+5,clear,North Indian,199.3,1,52
+5,clear,Chinese,130.0,1,45
+1,clear,Continental,154.8,0,32
+2,clear,Bakery,141.6,0,30
+3,rain,Bakery,130.9,0,23
+5,clear,Bakery,124.3,0,28
+0,cloudy,South Indian,155.9,1,43
+4,clear,Street Food,148.7,1,38
+2,cloudy,Chinese,130.6,0,26
+1,cloudy,Chinese,92.2,0,11
+3,clear,Bakery,135.4,1,42
+2,cloudy,South Indian,117.3,1,28
+4,rain,North Indian,107.7,1,25
+2,rain,Bakery,227.2,0,43
+5,clear,Continental,58.4,0,7
+0,clear,Continental,158.3,0,24
+6,cloudy,North Indian,85.5,0,32
+0,clear,Continental,125.2,1,31
+5,rain,South Indian,222.7,0,44
+2,clear,Continental,81.5,0,15
+2,rain,Continental,91.0,0,17
+0,clear,Bakery,119.3,1,35
+4,clear,Street Food,86.1,1,22
+1,storm,South Indian,155.4,1,47
+4,rain,North Indian,98.6,0,17
+5,rain,Continental,146.2,1,57
+5,storm,Street Food,66.8,0,28
+4,clear,North Indian,47.7,0,8
+2,clear,Chinese,110.8,0,19
+5,clear,Chinese,57.3,0,14
+5,clear,South Indian,180.7,1,45
+2,clear,Continental,58.8,1,17
+0,rain,South Indian,78.5,1,35
+6,clear,Chinese,136.5,0,28
+1,clear,Street Food,96.5,1,19
+4,clear,Chinese,59.3,1,16
+1,clear,North Indian,201.6,0,40
+0,clear,Street Food,79.9,1,23
+5,cloudy,South Indian,112.1,0,26
+1,clear,Bakery,111.6,0,25
+4,cloudy,Bakery,148.4,0,24
+4,rain,Continental,138.5,0,31
+0,cloudy,North Indian,86.9,0,13
+1,cloudy,Street Food,107.0,1,32
+5,clear,Bakery,110.9,1,34
+3,clear,Chinese,150.0,1,36
+0,clear,Street Food,73.3,0,16
+6,storm,Bakery,200.7,0,53
+1,cloudy,Bakery,89.6,0,15
+0,clear,South Indian,119.7,1,30
+6,clear,Continental,73.6,0,26
+0,rain,South Indian,68.1,1,29
+3,cloudy,North Indian,85.0,0,14
+6,cloudy,Chinese,81.2,0,18
+4,rain,North Indian,103.4,0,27
+4,cloudy,North Indian,80.8,0,15
+2,cloudy,Bakery,147.8,0,26
+0,clear,Continental,88.7,1,26
+4,clear,Chinese,84.2,0,17
+6,storm,South Indian,104.3,1,43
+0,cloudy,Bakery,159.7,1,44
+6,clear,Continental,128.6,1,44
+2,cloudy,Continental,116.0,1,33
+3,clear,South Indian,62.7,0,17
+1,rain,North Indian,74.3,0,17
+4,clear,North Indian,68.9,1,25
+1,rain,North Indian,172.3,0,39
+1,clear,Street Food,141.2,1,39
+5,clear,Chinese,85.5,1,35
+0,clear,Continental,97.4,1,30
+3,rain,Street Food,87.0,0,27
+4,clear,Street Food,84.6,0,13
+0,clear,South Indian,138.4,1,34
+2,cloudy,Chinese,108.5,0,19
+2,clear,Chinese,203.2,0,35
+4,clear,North Indian,170.0,1,33
+6,clear,Bakery,172.4,0,43
+5,rain,Continental,146.9,0,32
+1,clear,Chinese,103.1,1,29
+0,clear,Continental,143.9,0,20
+0,clear,Bakery,106.0,1,32
+4,clear,North Indian,185.2,1,40
+1,clear,Continental,136.2,1,30
+1,clear,Street Food,130.5,0,24
+5,clear,Bakery,125.1,0,26
+6,clear,Continental,189.6,1,48
+5,rain,North Indian,62.6,0,22
+1,clear,Bakery,193.5,1,48
+4,clear,Bakery,112.6,1,27
+4,rain,Chinese,63.8,1,22
+1,rain,Continental,89.9,1,30
+3,cloudy,Continental,54.0,0,12
+3,clear,North Indian,146.1,1,42
+2,clear,South Indian,78.5,1,20
+5,clear,Bakery,126.7,1,38
+4,clear,Street Food,165.4,1,44
+3,clear,South Indian,93.1,0,25
+5,cloudy,Chinese,109.3,1,32
+5,clear,Street Food,67.9,1,25
+3,cloudy,North Indian,104.5,0,20
+1,clear,South Indian,223.0,0,38
+5,clear,North Indian,151.1,0,30
+5,cloudy,South Indian,109.4,1,37
+6,rain,Continental,95.5,1,43
+1,clear,Chinese,118.3,0,16
+2,cloudy,Street Food,125.2,0,29
+6,clear,Street Food,103.2,1,32
+3,clear,Street Food,141.2,1,37
+6,cloudy,Bakery,81.9,1,37
+0,clear,Bakery,81.7,0,16
+0,clear,Continental,134.8,1,33
+5,clear,Street Food,73.3,0,22
+2,clear,North Indian,149.2,1,36
+3,clear,Bakery,119.4,1,34
+2,clear,North Indian,46.9,1,18
+2,storm,Chinese,124.4,1,44
+6,cloudy,South Indian,52.6,0,10
+0,clear,Continental,147.7,1,33
+5,clear,Bakery,110.1,0,20
+6,cloudy,North Indian,194.0,0,41
+4,clear,Continental,162.9,1,33
+2,clear,South Indian,77.6,1,21
+1,cloudy,North Indian,39.2,0,3
+4,clear,Chinese,89.8,1,32
+3,clear,Continental,71.1,0,9
+1,clear,South Indian,193.0,0,30
+2,clear,Chinese,119.6,0,23
+6,clear,Street Food,157.3,0,41
+1,rain,Chinese,108.6,0,23
+1,clear,Street Food,112.8,0,20
+4,cloudy,Street Food,118.7,0,27
+1,cloudy,Chinese,164.3,1,43
+6,clear,Continental,132.5,1,42
+6,clear,Bakery,77.7,0,18
+6,clear,Chinese,184.9,0,41
+6,cloudy,Chinese,108.3,1,30
+1,clear,South Indian,101.8,0,16
+1,cloudy,North Indian,20.0,0,9
+2,rain,North Indian,145.4,0,35
+3,cloudy,Chinese,124.0,1,34
+6,storm,Bakery,124.0,0,29
+5,cloudy,South Indian,103.9,1,30
+4,rain,South Indian,97.0,0,19
+6,rain,South Indian,105.2,1,38
+4,cloudy,Continental,138.5,1,30
+2,rain,South Indian,145.6,0,29
+2,rain,South Indian,110.8,0,31
+3,clear,North Indian,158.0,0,30
+0,cloudy,South Indian,116.8,1,32
+5,clear,South Indian,99.8,1,30
+4,rain,Bakery,127.9,0,20
+5,clear,Street Food,65.6,0,13
+3,rain,Chinese,129.3,0,21
+5,cloudy,North Indian,58.3,1,27
+6,storm,North Indian,78.9,1,40
+3,clear,South Indian,39.3,0,3
+3,cloudy,Chinese,113.0,0,21
+0,cloudy,Continental,184.4,0,39
+5,rain,South Indian,115.3,1,49
+6,rain,Chinese,145.7,0,39
+4,cloudy,South Indian,214.1,1,48
+6,cloudy,Continental,136.2,1,43
+6,clear,Bakery,89.4,0,27
+5,storm,North Indian,94.9,1,33
+3,clear,Chinese,120.0,1,38
+0,cloudy,Continental,94.7,0,15
+0,cloudy,Bakery,97.7,0,15
+1,clear,Continental,159.4,0,27
+3,clear,Continental,161.0,0,30
+5,clear,Bakery,54.1,0,11
+3,rain,Chinese,87.3,1,29
+0,clear,Continental,101.4,1,30
+1,clear,South Indian,144.0,1,37
+6,cloudy,Chinese,165.7,1,47
+6,clear,North Indian,228.1,0,46
+2,rain,Chinese,101.4,0,25
+5,clear,North Indian,103.4,1,39
+5,clear,South Indian,143.5,1,46
+6,clear,Chinese,92.7,0,24
+6,clear,Continental,114.4,1,40
+4,clear,Street Food,103.4,0,22
+2,cloudy,North Indian,20.0,1,24
+4,clear,Street Food,124.9,1,37
+2,clear,South Indian,112.7,0,20
+2,clear,Bakery,170.8,1,37
+4,clear,Bakery,120.2,1,31
+3,rain,Street Food,69.8,1,25
+4,clear,North Indian,109.7,1,32
+2,storm,Street Food,36.4,0,12
+2,clear,North Indian,71.6,0,18
+0,clear,Street Food,145.4,0,21
+4,clear,Continental,110.1,0,13
+4,clear,Chinese,156.9,1,38
+6,cloudy,Chinese,41.3,0,10
+3,clear,North Indian,110.3,1,25
+3,clear,Bakery,101.0,0,16
+0,cloudy,Bakery,158.2,0,25
+1,cloudy,Street Food,146.9,0,26
+2,rain,Bakery,145.7,0,28
+2,storm,Street Food,181.7,1,49
+2,cloudy,Street Food,105.3,1,29
+2,rain,Chinese,173.4,1,49
+5,cloudy,Bakery,78.2,1,36
+0,clear,South Indian,76.8,0,14
+2,cloudy,Bakery,150.1,1,38
+1,clear,Continental,59.8,0,10
+2,cloudy,Chinese,142.9,1,38
+4,storm,Continental,124.1,1,42
+0,clear,South Indian,162.9,1,45
+2,rain,Continental,117.6,0,18
+0,rain,Chinese,122.2,0,25
+6,clear,South Indian,140.4,0,33
+5,clear,Street Food,93.5,0,23
+1,rain,North Indian,91.8,1,27
+1,storm,Bakery,139.0,1,38
+0,clear,South Indian,118.8,0,25
+3,clear,South Indian,103.7,0,16
+5,cloudy,North Indian,116.7,0,20
+4,clear,North Indian,183.8,0,37
+6,clear,North Indian,102.3,1,36
+2,clear,Bakery,101.1,1,28
+1,clear,Street Food,51.7,1,16
+3,cloudy,Continental,118.3,1,31
+1,cloudy,North Indian,146.3,0,31
+6,cloudy,Street Food,153.4,0,27
+1,cloudy,Continental,124.3,1,26
+3,clear,Continental,158.2,0,26
+3,clear,Street Food,149.2,1,37
+0,clear,Chinese,164.5,1,38
+3,clear,Chinese,159.4,0,31
+3,clear,Bakery,182.8,0,37
+1,clear,Continental,113.2,1,31
+0,clear,Bakery,66.9,1,24
+0,clear,Bakery,146.5,0,27
+0,cloudy,Street Food,151.2,1,37
+3,cloudy,South Indian,182.8,0,28
+0,rain,North Indian,171.3,1,41
+6,cloudy,Chinese,197.8,0,36
+1,cloudy,Continental,144.8,0,25
+4,clear,Bakery,129.2,0,24
+4,cloudy,South Indian,64.6,0,6
+3,clear,Bakery,132.3,0,24
+6,clear,Bakery,97.9,0,20
+0,clear,Bakery,128.5,1,29
+1,clear,Bakery,122.2,0,19
+1,clear,Street Food,138.9,0,21
+0,cloudy,Continental,116.1,1,33
+2,rain,Chinese,157.4,1,42
+2,cloudy,Chinese,20.0,0,7
+5,cloudy,Bakery,127.6,0,27
+2,clear,South Indian,168.1,0,29
+6,clear,Continental,194.8,1,59
+5,cloudy,Continental,149.3,1,36
+6,clear,Continental,187.4,1,55
+0,clear,Chinese,126.8,0,29
+6,clear,Bakery,120.1,0,31
+4,rain,North Indian,141.2,0,28
+6,cloudy,Bakery,119.9,1,43
+2,clear,Bakery,88.7,1,25
+6,cloudy,Street Food,99.4,1,31
+4,clear,Street Food,75.5,0,12
+0,clear,Chinese,141.1,0,23
+2,clear,North Indian,120.5,1,28
+0,clear,Continental,105.6,0,23
+6,cloudy,North Indian,97.3,1,30
+2,clear,South Indian,140.2,1,35
+1,cloudy,Bakery,151.2,0,21
+3,clear,Continental,74.8,1,24
+2,cloudy,Continental,68.5,0,8
+0,cloudy,Bakery,158.2,0,24
+5,cloudy,North Indian,65.0,0,17
+5,cloudy,Bakery,141.9,1,46
+5,storm,Continental,184.7,1,59
+4,clear,Chinese,184.8,0,35
+2,cloudy,Chinese,149.5,1,36
+3,cloudy,Continental,148.4,0,25
+3,clear,Continental,210.1,1,51
+1,clear,Chinese,26.6,1,13
+0,clear,South Indian,101.4,1,32
+1,clear,South Indian,153.9,1,43
+3,clear,Chinese,106.5,0,16
+1,clear,South Indian,169.6,0,28
+0,cloudy,Continental,118.4,1,29
+5,clear,Street Food,125.3,0,23
+2,rain,North Indian,109.0,1,32
+4,clear,South Indian,99.1,0,23
+3,cloudy,North Indian,98.1,1,23
+5,clear,Street Food,130.8,1,45
+5,clear,Bakery,89.0,1,30
+2,clear,South Indian,158.1,0,37
+5,cloudy,Chinese,146.1,1,40
+2,clear,Bakery,164.0,0,29
+5,rain,Street Food,74.8,0,20
+2,clear,Continental,52.0,0,7
+0,cloudy,South Indian,119.8,0,27
+5,clear,Bakery,236.0,1,60
+0,cloudy,Bakery,170.6,1,45
+5,clear,Continental,97.8,0,18
+0,clear,North Indian,137.0,1,37
+1,clear,Bakery,149.1,1,33
+4,clear,North Indian,65.3,1,16
+6,clear,Street Food,174.8,0,38
+2,storm,Street Food,113.3,1,39
+0,clear,Continental,116.4,0,21
+1,clear,Continental,121.0,1,35
+6,storm,North Indian,165.8,0,47
+5,clear,Street Food,89.8,1,38
+0,clear,South Indian,51.7,0,5
+2,cloudy,South Indian,132.9,0,30
+1,rain,Bakery,38.3,0,18
+1,cloudy,Street Food,108.0,0,18
+5,clear,Chinese,167.5,0,29
+4,storm,Continental,143.2,1,38
+1,clear,Continental,161.7,0,27
+4,storm,South Indian,144.8,0,42
+2,rain,Continental,216.4,0,43
+0,rain,Street Food,96.5,0,19
+3,clear,Chinese,135.9,0,22
+1,clear,Bakery,102.5,1,23
+1,cloudy,Bakery,158.3,0,32
+6,clear,Street Food,117.5,1,37
+4,clear,Bakery,188.8,0,42
+0,rain,Street Food,98.8,1,34
+5,cloudy,Bakery,176.3,0,41
+4,clear,Street Food,143.7,1,35
+6,clear,Bakery,118.7,1,33
+5,clear,Street Food,141.7,1,38
+2,clear,Street Food,130.5,1,28
+3,clear,Street Food,134.2,1,38
+3,rain,Continental,111.7,1,33
+5,cloudy,Bakery,91.9,1,36
+1,clear,Street Food,106.6,0,20
+2,clear,Chinese,52.7,1,18
+1,cloudy,North Indian,153.7,1,33
+2,rain,Street Food,70.6,0,18
+1,rain,Continental,111.3,1,33
+0,clear,Chinese,145.9,1,40
+6,rain,Bakery,153.6,0,35
+0,clear,North Indian,49.0,0,11
+6,clear,Chinese,116.3,0,34
+0,rain,South Indian,138.4,1,40
+5,clear,South Indian,122.1,1,41
+2,clear,Street Food,173.8,0,34
+3,clear,Continental,87.1,1,33
+1,clear,North Indian,38.0,0,8
+3,clear,Chinese,152.4,1,40
+3,cloudy,South Indian,98.5,0,18
+3,clear,Street Food,49.7,1,16
+2,clear,South Indian,113.7,0,16
+3,rain,Chinese,169.2,1,50
+5,clear,Chinese,69.5,1,24
+3,rain,South Indian,213.4,1,55
+2,clear,Bakery,86.5,0,17
+0,cloudy,Continental,123.5,0,26
+2,clear,Chinese,71.2,0,11
+0,rain,Chinese,121.7,0,23
+1,clear,Bakery,114.7,0,22
+6,rain,North Indian,60.4,1,30
+0,clear,Street Food,233.0,0,37
+3,cloudy,Continental,100.2,0,26
+5,clear,South Indian,100.2,0,21
+6,clear,Continental,158.8,0,31
+1,clear,Street Food,192.6,1,44
+1,clear,South Indian,165.1,0,35
+2,clear,Continental,72.0,0,4
+3,cloudy,Continental,128.6,0,28
+6,clear,Bakery,44.7,1,20
+1,clear,Continental,156.1,0,29
+1,clear,Bakery,54.6,0,7
+1,clear,Bakery,87.9,1,34
+6,clear,Street Food,119.9,1,38
+0,cloudy,Chinese,137.8,0,22
+2,clear,Bakery,109.6,0,19
+0,rain,South Indian,180.8,1,47
+1,clear,Street Food,148.9,0,28
+6,clear,Street Food,145.8,0,34
+0,rain,South Indian,70.8,1,27
+2,clear,Continental,188.0,1,38
+6,clear,Bakery,87.9,0,20
+4,storm,North Indian,189.5,1,55
+0,rain,Bakery,200.9,1,47
+3,cloudy,Bakery,140.5,1,38
+6,clear,Street Food,161.3,1,45
+2,cloudy,South Indian,20.0,0,3
+3,storm,Bakery,112.2,0,33
+3,rain,Bakery,164.1,0,27
+4,clear,North Indian,157.0,0,26
+1,clear,Bakery,71.2,1,28
+5,clear,Continental,108.3,1,43
+6,clear,Street Food,20.0,1,29
+0,cloudy,North Indian,136.5,0,25
+5,clear,Street Food,44.7,0,16
+5,clear,Continental,165.2,0,39
+5,clear,South Indian,167.3,1,51
+2,clear,Chinese,101.0,0,19
+3,clear,Bakery,140.9,1,39
+5,clear,Street Food,111.3,1,38
+1,clear,South Indian,129.7,0,25
+5,storm,Street Food,74.1,1,34
+6,clear,Continental,144.9,1,41
+4,clear,South Indian,54.4,1,18
+2,clear,Continental,46.8,0,4
+3,clear,Bakery,115.1,0,14
+0,clear,North Indian,111.6,0,18
+6,clear,North Indian,130.9,1,39
+2,clear,North Indian,94.0,1,27
+0,clear,Continental,195.4,0,37
+5,cloudy,North Indian,126.4,0,30
+4,clear,Street Food,129.3,1,32
+4,clear,North Indian,127.9,1,29
+0,cloudy,North Indian,160.1,1,42
+5,clear,South Indian,143.0,1,41
+4,clear,Bakery,137.7,1,33
+5,clear,Street Food,149.4,1,42
+5,clear,South Indian,47.0,1,22
+1,clear,Continental,48.5,0,7
+1,storm,Bakery,117.0,0,27
+6,storm,Bakery,112.1,0,33
+3,storm,North Indian,143.2,1,46
+3,clear,Street Food,120.8,0,23
+2,clear,Street Food,143.3,1,42
+4,clear,Bakery,70.2,1,27
+5,clear,Continental,119.6,0,35
+0,clear,Chinese,66.4,0,14
+3,clear,Street Food,135.5,0,27
+6,clear,Street Food,44.9,1,22
+1,clear,Continental,133.9,0,27
+1,clear,Bakery,61.2,0,8
+6,cloudy,Chinese,104.7,0,19
+0,clear,Bakery,155.8,0,34
+2,rain,North Indian,129.1,1,32
+3,clear,Street Food,54.2,1,22
+5,clear,Continental,93.1,0,19
+0,clear,Continental,59.9,1,25
+3,clear,South Indian,52.2,1,24
+1,clear,Continental,124.7,0,25
+5,clear,North Indian,142.4,0,37
+4,cloudy,Street Food,137.6,1,35
+3,clear,Bakery,144.1,1,45
+2,clear,Chinese,119.5,0,24
+1,rain,Street Food,109.1,0,20
+6,clear,Bakery,77.1,1,30
+4,cloudy,North Indian,102.4,1,28
+2,clear,North Indian,67.1,0,11
+2,clear,South Indian,86.2,0,9
+5,clear,North Indian,123.6,1,40
+5,clear,Continental,115.3,0,21
+3,cloudy,Continental,242.6,0,34
+2,clear,Continental,66.2,1,21
+4,clear,North Indian,115.0,0,18
+4,clear,Street Food,63.1,1,18
+4,rain,Street Food,104.5,1,20
+0,cloudy,Continental,106.1,0,16
+3,rain,North Indian,153.8,0,31
+4,cloudy,Chinese,102.0,1,26
+6,cloudy,Bakery,112.3,0,28
+3,clear,Bakery,102.8,1,34
+2,rain,South Indian,64.0,0,18
+3,clear,Bakery,93.9,1,31
+1,clear,Street Food,104.7,0,23
+0,cloudy,Continental,123.0,0,18
+4,clear,Chinese,142.4,1,37
+6,clear,Continental,110.6,0,30
+5,clear,North Indian,109.9,0,24
+4,clear,Continental,51.2,1,16
+0,rain,North Indian,141.6,1,42
+6,clear,North Indian,92.2,0,17
+3,rain,Continental,149.9,1,37
+2,clear,Continental,172.7,0,28
+6,cloudy,Street Food,112.5,0,28
+5,clear,Continental,79.1,0,21
+5,rain,Street Food,119.3,1,46
+1,clear,Bakery,133.9,1,30
+6,clear,Chinese,107.4,0,21
+3,clear,Street Food,97.4,1,30
+3,clear,Chinese,142.5,0,22
+5,clear,Continental,139.9,0,29
+4,cloudy,North Indian,106.1,0,12
+1,rain,South Indian,53.8,1,25
+2,cloudy,Continental,138.3,0,31
+2,clear,South Indian,89.3,1,22
+6,clear,Continental,128.6,0,33
+5,rain,North Indian,126.0,1,42
+2,rain,South Indian,44.4,0,5
+5,clear,Continental,123.2,0,25
+5,storm,Continental,140.6,1,45
+2,clear,Street Food,145.5,1,35
+2,rain,Street Food,124.7,1,38
+6,storm,Bakery,40.9,0,29
+3,cloudy,North Indian,171.1,1,35
+1,clear,Continental,136.4,0,23
+5,cloudy,South Indian,71.9,1,25
+4,clear,South Indian,88.5,1,21
+3,cloudy,South Indian,129.2,1,34
+5,clear,Chinese,147.2,1,43
+6,cloudy,North Indian,100.5,0,17
+2,rain,Continental,153.0,0,32
+2,clear,North Indian,48.3,1,14
+1,clear,Continental,78.3,0,14
+4,cloudy,Continental,37.4,0,12
+2,clear,South Indian,84.1,1,27
+2,clear,North Indian,180.3,1,43
+4,clear,Bakery,202.3,1,44
+2,clear,Bakery,129.4,1,34
+3,cloudy,South Indian,94.5,1,29
+3,cloudy,Street Food,111.1,0,22
+1,clear,South Indian,138.9,1,35
+0,clear,Street Food,57.5,1,21
+5,clear,North Indian,97.1,1,28
+0,clear,Continental,177.4,1,39
+2,cloudy,North Indian,78.2,0,17
+4,clear,South Indian,90.0,1,30
+0,clear,Chinese,120.5,1,32
+4,rain,North Indian,131.3,0,34
+5,clear,Chinese,95.0,1,35
+4,cloudy,South Indian,123.1,1,31
+2,clear,North Indian,144.3,0,21
+0,clear,Street Food,198.5,1,51
+6,clear,Street Food,115.0,0,30
+2,cloudy,Street Food,118.3,0,28
+5,rain,North Indian,181.1,1,61
+1,clear,Chinese,98.0,1,22
+1,clear,South Indian,67.0,0,7
+5,clear,South Indian,130.0,0,18
+6,cloudy,Chinese,163.0,1,49
+6,cloudy,Continental,134.4,1,43
+5,cloudy,Chinese,116.1,0,27
+1,rain,South Indian,62.1,0,10
+6,clear,Street Food,117.7,0,27
+4,cloudy,Street Food,169.3,0,31
+1,cloudy,South Indian,70.6,0,16
+0,clear,South Indian,110.2,0,21
+6,rain,Continental,104.5,1,41
+1,clear,Chinese,92.1,1,26
+5,cloudy,Street Food,129.9,0,34
+0,cloudy,Chinese,137.7,1,37
+1,rain,North Indian,137.3,1,34
+1,clear,North Indian,80.9,0,20
+1,clear,North Indian,54.2,1,25
+4,rain,Chinese,130.5,0,29
+6,cloudy,South Indian,99.8,1,35
+6,clear,Street Food,193.5,1,57
+5,cloudy,Street Food,195.4,1,45
+1,clear,North Indian,199.6,0,41
+6,cloudy,Street Food,82.4,1,29
+3,rain,Continental,142.8,0,34
+3,clear,South Indian,154.8,0,28
+4,clear,Chinese,150.3,1,32
+5,storm,Chinese,105.8,0,31
+6,cloudy,South Indian,171.2,0,41
+4,rain,Street Food,120.0,1,35
+4,clear,North Indian,125.1,1,30
+5,storm,North Indian,58.5,0,22
+1,clear,South Indian,145.8,0,29
+2,clear,North Indian,109.6,0,27
+4,clear,North Indian,138.6,1,26
+0,cloudy,Chinese,129.4,0,34
+2,rain,Chinese,127.2,1,38
+5,cloudy,North Indian,118.2,0,30
+6,cloudy,Bakery,151.5,0,32
+3,clear,Street Food,112.0,0,20
+2,clear,Bakery,61.8,1,22
+3,clear,Continental,142.8,0,22
+4,clear,Street Food,87.6,1,23
+3,clear,Chinese,67.0,0,17
+0,rain,Chinese,79.1,1,22
+3,cloudy,North Indian,131.3,0,25
+2,cloudy,Bakery,116.1,0,19
+4,clear,North Indian,34.7,0,2
+6,clear,Continental,104.7,0,33
+6,clear,Bakery,166.8,0,32
+4,clear,South Indian,101.9,1,24
+2,clear,Continental,113.4,1,30
+3,clear,South Indian,161.7,0,26
+1,clear,Chinese,151.8,0,27
+6,cloudy,Continental,160.9,0,36
+5,clear,South Indian,20.0,1,21
+5,clear,Bakery,189.3,0,40
+2,clear,Chinese,145.5,0,23
+2,clear,Chinese,218.5,1,52
+5,clear,Bakery,88.7,0,22
+3,clear,South Indian,49.5,0,7
+4,cloudy,Chinese,120.3,0,28
+3,clear,Street Food,109.0,0,19
+3,rain,Chinese,146.1,0,35
+4,clear,North Indian,163.0,1,44
+5,clear,South Indian,116.5,1,42
+2,clear,Street Food,110.4,0,23
+5,clear,Bakery,140.9,1,41
+1,clear,Bakery,109.7,0,19
+2,rain,South Indian,106.4,0,22
+6,clear,Street Food,161.5,0,26
+6,cloudy,Chinese,170.4,1,50
+6,clear,Bakery,163.4,0,36
+2,clear,Street Food,113.3,1,34
+5,clear,South Indian,34.4,1,22
+6,clear,Street Food,114.1,0,29
+6,clear,Continental,89.7,0,17
+0,storm,Bakery,114.8,0,24
+5,cloudy,Bakery,93.2,1,23
+6,storm,South Indian,119.2,0,35
+5,clear,Bakery,78.4,0,17
+1,cloudy,South Indian,68.8,1,19
+5,cloudy,South Indian,168.9,0,38
+0,cloudy,North Indian,81.2,0,13
+3,storm,South Indian,120.0,0,24
+4,cloudy,Street Food,158.2,0,39
+3,rain,South Indian,156.6,1,42
+4,cloudy,Chinese,151.8,1,33
+1,clear,Chinese,132.1,0,21
+4,cloudy,Bakery,149.0,0,26
+4,clear,Continental,174.9,0,31
+4,rain,Continental,137.0,1,44
+2,rain,Street Food,46.5,1,22
+2,clear,Chinese,98.9,1,35
+1,clear,Bakery,147.9,0,25
+3,clear,Street Food,94.9,0,19
+4,clear,Bakery,184.8,1,47
+2,clear,North Indian,117.5,0,26
+2,cloudy,South Indian,123.4,0,27
+2,cloudy,Continental,165.0,1,39
+1,rain,Chinese,112.7,0,24
+4,clear,South Indian,127.1,0,13
+5,clear,Chinese,156.0,1,43
+2,clear,North Indian,61.1,0,15
+6,rain,South Indian,108.6,0,33
+3,clear,Bakery,153.2,1,37
+1,clear,North Indian,122.6,0,29
+2,clear,Street Food,178.7,1,41
+0,rain,Chinese,57.0,0,11
+0,clear,Bakery,52.4,1,18
+2,cloudy,South Indian,150.8,0,23
+3,cloudy,Bakery,154.6,1,40
+5,cloudy,Continental,112.3,1,37
+0,clear,Street Food,136.0,1,37
+5,clear,North Indian,149.8,0,31
+1,clear,Bakery,87.4,0,16
+0,clear,South Indian,91.7,1,18
+4,cloudy,Chinese,127.6,1,34
+5,clear,North Indian,156.2,0,35
+4,clear,Street Food,73.4,0,9
+0,clear,Continental,112.1,0,20
+0,cloudy,Street Food,110.2,1,29
+2,clear,Continental,136.7,0,32
+3,cloudy,North Indian,119.7,1,27
+6,clear,Chinese,98.2,1,35
+2,storm,Chinese,169.9,1,44
+1,cloudy,North Indian,98.4,1,25
+6,clear,Street Food,108.3,0,27
+1,clear,Street Food,56.3,1,19
+0,clear,Continental,91.5,0,16
+2,clear,Continental,140.6,0,27
+2,clear,Bakery,132.8,0,22
+4,rain,Bakery,144.0,0,33
+6,cloudy,North Indian,142.0,1,40
+6,clear,Continental,203.5,1,52
+2,cloudy,Bakery,90.1,0,18
+6,clear,Bakery,55.2,0,17
+4,storm,Continental,78.0,1,35
+0,clear,Street Food,91.9,1,28
+6,cloudy,Continental,81.0,1,32
+0,cloudy,Chinese,123.7,0,21
+4,clear,Chinese,170.1,1,36
+5,clear,Bakery,181.6,0,33
+1,clear,Street Food,140.2,0,19
+1,rain,South Indian,205.7,0,48
+3,clear,South Indian,105.7,1,20
+6,cloudy,Continental,54.7,0,21
+1,cloudy,Bakery,162.1,1,36
+4,rain,Chinese,46.5,1,27
+3,clear,Continental,89.8,0,7
+0,clear,North Indian,140.8,1,34
+4,cloudy,South Indian,115.9,1,37
+5,clear,Street Food,112.4,1,39
+4,rain,Continental,72.8,0,16
+1,clear,Street Food,119.6,1,24
+1,clear,South Indian,160.1,1,34
+2,rain,South Indian,120.8,0,31
+3,clear,Street Food,86.8,1,24
+3,clear,Street Food,70.1,0,12
+1,clear,Street Food,87.6,1,27
+3,clear,South Indian,135.7,0,19
+2,rain,Bakery,133.7,0,30
+4,clear,Chinese,88.0,1,24
+5,clear,Street Food,31.6,0,13
+4,clear,Street Food,136.8,0,22
+0,storm,Chinese,84.1,1,27
+6,clear,South Indian,147.6,1,41
+0,storm,Street Food,89.8,1,37
+6,rain,Chinese,80.5,1,36
+0,clear,Chinese,126.1,0,23
+3,rain,Continental,214.3,1,56
+0,cloudy,Street Food,150.0,1,36
+0,clear,North Indian,125.4,1,33
+4,clear,Street Food,134.4,1,32
+5,rain,Chinese,50.0,1,33
+0,cloudy,North Indian,75.1,1,25
+6,cloudy,South Indian,20.0,1,17
+2,storm,Chinese,189.2,0,36
+2,clear,Bakery,181.1,1,47
+2,rain,Continental,135.7,0,25
+3,rain,North Indian,125.4,0,27
+1,clear,Chinese,57.9,1,30
+2,clear,South Indian,111.2,1,33
+1,clear,South Indian,191.7,0,41
+0,rain,Bakery,125.3,0,24
+2,clear,Bakery,97.4,1,32
+4,cloudy,North Indian,49.7,1,19
+5,clear,Continental,175.2,1,49
+2,clear,Chinese,117.2,1,39
+2,cloudy,Chinese,49.7,0,8
+5,clear,Bakery,83.0,0,21
+4,rain,South Indian,68.9,0,13
+5,clear,Bakery,114.7,1,40
+6,rain,Chinese,128.3,1,41
+5,clear,North Indian,99.9,0,28
+6,storm,Bakery,151.1,1,45
+2,cloudy,Street Food,123.2,1,34
+2,clear,Continental,162.5,1,37
+2,clear,Bakery,105.7,1,32
+1,clear,North Indian,241.8,0,43
+5,cloudy,Chinese,97.4,1,31
+5,rain,Chinese,83.9,0,24
+5,clear,Bakery,78.9,1,27
+1,clear,Chinese,111.6,1,33
+3,cloudy,Bakery,51.2,0,5
+1,clear,South Indian,131.8,1,33
+6,cloudy,Continental,43.8,0,15
+1,clear,South Indian,126.5,0,29
+1,cloudy,Continental,65.9,1,22
+3,storm,North Indian,104.7,0,26
+6,clear,Bakery,144.2,0,33
+6,clear,North Indian,212.2,0,36
+0,clear,Street Food,76.9,0,9
+2,cloudy,Street Food,114.0,1,29
+1,clear,Continental,91.0,0,14
+2,rain,Street Food,85.2,0,13
+3,cloudy,Bakery,91.4,0,20
+1,clear,North Indian,153.0,1,39
+0,cloudy,Bakery,100.5,1,29
+3,clear,Chinese,210.0,0,35
+0,rain,Street Food,136.6,0,29
+1,clear,Street Food,79.6,1,26
+0,cloudy,Street Food,105.3,0,18
+0,rain,Chinese,87.9,1,32
+3,cloudy,South Indian,152.0,1,34
+5,rain,North Indian,54.4,0,20
+5,clear,North Indian,66.4,1,33
+0,rain,Street Food,96.3,0,26
+0,cloudy,Continental,147.3,0,32
+2,cloudy,Chinese,169.3,1,42
+4,clear,Chinese,175.2,1,42
+5,clear,South Indian,141.2,1,40
+5,cloudy,Continental,116.7,0,20
+2,clear,Chinese,151.8,0,22
+1,cloudy,Bakery,74.2,1,23
+0,rain,North Indian,46.2,1,22
+1,rain,Street Food,137.5,0,34
+0,clear,North Indian,79.8,1,30
+6,rain,Chinese,117.4,0,28
+1,clear,Chinese,124.8,0,26
+5,clear,Bakery,129.9,0,27
+3,rain,Continental,157.5,1,45
+3,clear,South Indian,153.3,1,41
+3,clear,Chinese,127.8,0,28
+5,clear,Continental,102.3,0,22
+0,clear,Chinese,124.3,0,26
+0,rain,North Indian,96.2,0,14
+2,clear,South Indian,112.1,0,25
+2,clear,Continental,224.7,1,50
+3,cloudy,South Indian,127.3,0,23
+5,clear,Continental,138.0,0,23
+4,cloudy,North Indian,91.8,1,25
+1,rain,Bakery,160.8,1,48
+2,cloudy,South Indian,150.4,0,25
+5,rain,Continental,150.7,0,40
+1,clear,Street Food,128.6,1,33
+3,rain,Chinese,161.4,0,37
+3,clear,North Indian,170.9,1,42
+5,clear,North Indian,131.3,0,26
+5,cloudy,Chinese,115.4,1,37
+3,clear,North Indian,155.8,0,34
+2,rain,Street Food,83.8,1,31
+2,cloudy,Street Food,91.3,0,16
+2,storm,Street Food,117.9,0,38
+1,clear,Street Food,50.3,1,24
+4,clear,Continental,153.1,1,41
+1,cloudy,South Indian,81.5,1,26
+4,clear,Chinese,101.1,1,31
+5,clear,South Indian,111.5,0,29
+6,cloudy,Street Food,121.6,0,19
+0,storm,Chinese,106.3,0,29
+5,cloudy,Chinese,117.3,1,36
+0,clear,Bakery,117.6,1,29
+2,clear,Chinese,102.1,1,28
+1,cloudy,Chinese,89.1,0,10
+1,clear,South Indian,163.3,1,32
+1,clear,North Indian,35.8,1,21
+0,clear,North Indian,111.8,1,32
+5,clear,Chinese,101.2,1,25
+0,clear,Street Food,136.8,1,32
+2,clear,South Indian,61.8,0,15
+4,cloudy,Continental,100.0,0,17
+6,clear,South Indian,115.9,1,42
+5,cloudy,South Indian,162.8,1,50
+0,clear,North Indian,133.3,1,29
+6,rain,Continental,72.7,1,33
+4,clear,Continental,100.5,1,26
+1,clear,Chinese,155.4,1,32
+3,clear,Continental,72.0,1,17
+6,clear,Chinese,116.9,0,24
+2,clear,South Indian,119.6,0,19
+1,rain,Bakery,104.6,0,24
+6,rain,Continental,227.8,1,65
+6,clear,North Indian,103.5,0,27
+6,clear,Chinese,138.0,0,34
+6,cloudy,Chinese,89.3,0,21
+6,cloudy,Bakery,141.1,0,34
+3,clear,South Indian,154.8,0,27
+1,cloudy,Street Food,96.5,1,26
+4,clear,Continental,117.8,0,29
+1,cloudy,North Indian,84.2,0,6
+3,clear,Chinese,74.2,0,6
+4,clear,Street Food,161.5,1,41
+6,clear,South Indian,97.8,1,33
+2,cloudy,Bakery,23.5,1,8
+1,clear,Bakery,190.6,0,30
+5,cloudy,Bakery,87.9,1,28
+0,cloudy,North Indian,110.1,0,23
+3,cloudy,Chinese,185.6,1,48
+5,clear,Chinese,114.3,1,43
+3,clear,Chinese,113.5,1,24
+2,clear,Street Food,70.9,1,17
+5,cloudy,North Indian,54.6,1,20
+2,rain,Continental,113.3,1,40
+4,clear,Street Food,134.5,1,36
+3,rain,Street Food,132.2,1,38
+0,clear,Continental,100.7,1,29
+3,clear,Street Food,120.8,0,22
+0,clear,Chinese,46.5,1,14
+6,cloudy,Continental,138.4,0,33
+4,clear,Continental,126.5,0,22
+2,clear,North Indian,198.9,0,31
+3,cloudy,North Indian,120.3,0,24
+4,clear,Street Food,82.3,1,23
+1,clear,South Indian,118.0,0,22
+2,clear,Chinese,106.9,1,29
+2,clear,Continental,137.4,0,28
+1,clear,Continental,121.1,0,23
+5,clear,Continental,69.6,0,15
+0,cloudy,Street Food,54.6,1,21
+5,clear,Bakery,130.5,1,41
+2,cloudy,Street Food,175.3,0,34
+3,clear,Continental,123.2,1,36
+1,clear,Street Food,152.5,1,35
+2,clear,Continental,160.5,1,42
+5,clear,Continental,130.7,0,23
+1,clear,Bakery,87.4,1,25
+0,clear,Street Food,127.8,1,32
+3,rain,North Indian,168.3,1,50
+1,rain,Street Food,141.2,0,29
+2,clear,Bakery,149.9,1,39
+3,cloudy,Street Food,101.5,0,11
+3,cloudy,Bakery,111.9,1,29
+4,rain,Street Food,115.3,1,31
+4,clear,South Indian,117.9,0,31
+5,clear,South Indian,166.7,0,33
+0,clear,South Indian,26.1,1,15
+2,clear,South Indian,121.2,1,32
+0,clear,South Indian,116.8,0,15
+0,rain,Chinese,65.1,1,24
+1,rain,South Indian,146.9,0,32
+4,clear,North Indian,91.0,1,27
+6,clear,Continental,105.7,0,16
+5,clear,Bakery,194.0,1,49
+4,clear,North Indian,160.4,1,43
+5,cloudy,Continental,143.0,0,34
+1,clear,Continental,135.2,1,39
+5,rain,Bakery,113.4,0,26
+6,storm,North Indian,200.0,0,55
+0,cloudy,Bakery,152.1,1,37
+3,cloudy,North Indian,90.0,1,33
+5,clear,South Indian,64.0,0,18
+3,clear,South Indian,142.7,0,17
+5,clear,Street Food,117.8,0,31
+6,cloudy,South Indian,62.8,0,16
+3,clear,Bakery,137.1,1,33
+0,rain,Street Food,109.2,0,18
+2,clear,Street Food,141.2,1,42
+1,clear,South Indian,137.7,0,23
+3,clear,North Indian,95.7,0,24
+4,storm,South Indian,145.3,1,42
+3,clear,Bakery,100.1,1,24
+1,clear,South Indian,102.7,0,24
+2,clear,Continental,98.7,0,17
+4,cloudy,Chinese,165.2,0,29
+0,storm,Bakery,108.8,1,32
+1,clear,Continental,174.9,0,30
+6,rain,Continental,191.3,0,46
+0,clear,Bakery,90.5,1,21
+2,cloudy,Street Food,20.0,1,11
+1,clear,Chinese,161.8,1,37
+0,clear,Continental,106.3,0,19
+2,cloudy,Continental,85.4,1,31
+3,clear,Bakery,96.5,0,16
+1,clear,Chinese,103.4,1,26
+0,rain,Chinese,171.9,0,46
+0,storm,Street Food,126.4,1,39
+4,clear,Street Food,171.3,0,30
+6,cloudy,Continental,139.8,0,30
+1,cloudy,North Indian,107.6,1,28
+2,clear,South Indian,104.4,0,19
+2,rain,Chinese,142.5,1,43
+2,clear,Bakery,152.8,1,39
+1,cloudy,Bakery,159.9,1,43
+0,clear,Bakery,109.5,0,24
+3,clear,North Indian,127.0,1,34
+2,clear,Chinese,143.4,0,27
+2,clear,Bakery,104.6,0,23
+1,rain,Street Food,74.6,0,13
+6,storm,North Indian,87.7,0,40
+4,clear,Street Food,110.4,0,18
+2,clear,North Indian,146.5,0,25
+1,clear,South Indian,170.4,0,26
+5,clear,Street Food,65.8,0,13
+6,clear,Bakery,96.1,0,27
+0,rain,Street Food,105.7,1,42
+6,cloudy,Continental,151.8,0,31
+4,clear,Continental,98.9,1,29
+0,clear,Continental,102.8,1,29
+5,cloudy,Continental,63.5,0,21
+0,clear,Continental,139.3,1,44
+0,clear,South Indian,113.5,0,27
+0,clear,Street Food,93.8,0,16
+3,clear,Chinese,109.6,1,32
+4,clear,Continental,165.1,0,32
+2,cloudy,Bakery,79.8,0,14
+0,clear,Continental,86.3,0,11
+1,cloudy,Continental,170.1,0,27
+5,clear,North Indian,123.0,0,33
+6,rain,South Indian,146.8,1,51
+5,clear,Chinese,136.1,0,30
+0,clear,Chinese,118.6,1,32
+5,clear,Street Food,106.1,0,30
+4,clear,Street Food,153.3,1,31
+3,clear,Bakery,166.5,1,38
+1,cloudy,Chinese,163.4,1,47
+6,clear,North Indian,72.6,1,30
+3,clear,Bakery,172.2,0,26
+0,clear,Street Food,105.7,1,29
+1,cloudy,Chinese,89.8,0,20
+2,rain,Bakery,113.2,1,24
+0,cloudy,Street Food,153.2,1,38
+2,cloudy,Continental,141.6,1,34
+3,cloudy,South Indian,109.8,0,13
+6,cloudy,North Indian,153.5,1,44
+0,clear,Bakery,125.6,1,32
+4,cloudy,Continental,97.1,1,27
+6,cloudy,North Indian,91.7,1,31
+5,clear,North Indian,136.4,1,36
+6,cloudy,Street Food,116.7,1,31
+1,clear,South Indian,65.0,1,19
+5,clear,South Indian,153.9,0,37
+6,clear,Continental,100.8,1,35
+2,cloudy,Chinese,183.7,0,33
+3,rain,Street Food,63.9,1,21
+3,clear,Bakery,112.8,0,19
+3,clear,Chinese,92.0,0,20
+2,clear,South Indian,81.0,0,17
+6,clear,Street Food,100.5,0,22
+6,storm,Continental,190.8,0,38
+2,clear,Street Food,125.7,0,20
+5,clear,Chinese,88.3,0,20
+2,clear,North Indian,46.9,0,5
+5,storm,Street Food,51.1,1,32
+4,clear,South Indian,98.5,0,21
+3,cloudy,Street Food,94.7,1,27
+0,clear,Bakery,111.0,0,24
+4,clear,South Indian,29.1,0,0
+2,cloudy,Bakery,116.3,0,20
+1,clear,North Indian,161.1,0,21
+1,cloudy,Chinese,184.9,1,42
+6,clear,Chinese,44.2,1,20
+0,cloudy,Continental,87.9,0,21
+5,cloudy,Continental,85.8,1,33
+6,cloudy,Continental,125.8,0,33
+0,clear,Chinese,71.2,1,21
+4,cloudy,Bakery,187.3,0,30
+4,storm,North Indian,121.7,0,26
+2,clear,Bakery,115.1,0,22
+4,clear,North Indian,183.7,0,40
+2,rain,North Indian,119.4,1,37
+3,clear,Bakery,136.0,1,33
+3,cloudy,North Indian,90.0,1,25
+5,cloudy,Bakery,65.2,1,28
+4,clear,North Indian,95.6,0,25
+2,cloudy,North Indian,207.5,1,52
+6,cloudy,Street Food,145.3,1,43
+5,clear,South Indian,131.0,1,40
+6,rain,Street Food,80.9,0,26
+5,clear,Chinese,156.5,1,46
+2,clear,Bakery,65.7,1,20
+5,rain,Street Food,57.3,0,17
+2,clear,North Indian,97.6,1,32
+1,rain,South Indian,198.2,1,50
+3,clear,Continental,195.9,1,49
+6,clear,Street Food,102.0,1,41
+3,clear,South Indian,93.0,0,19
+2,cloudy,South Indian,54.4,1,21
+3,cloudy,Chinese,123.1,1,45
+2,rain,South Indian,126.5,0,28
+4,storm,South Indian,151.6,1,41
+2,cloudy,North Indian,156.4,0,27
+3,cloudy,Bakery,112.1,1,36
+2,clear,Bakery,142.2,0,20
+2,rain,North Indian,92.0,0,18
+6,cloudy,Continental,141.5,0,36
+2,rain,Continental,99.7,0,21
+0,clear,Continental,138.4,1,34
+2,clear,Street Food,135.1,0,29
+3,cloudy,Continental,122.8,1,29
+0,clear,Bakery,151.8,0,21
+2,clear,North Indian,57.2,0,5
+1,storm,North Indian,77.4,1,34
+3,clear,Continental,109.2,0,21
+5,clear,Street Food,62.3,0,14
+6,clear,Chinese,103.7,1,30
+2,clear,Continental,105.0,0,18
+6,cloudy,South Indian,172.4,1,51
+1,rain,Chinese,125.7,1,33
+5,storm,Bakery,161.2,1,50
+3,cloudy,Continental,132.1,0,19
+5,cloudy,North Indian,98.6,0,22
+5,clear,Street Food,125.3,1,40
+3,rain,Street Food,149.2,1,49
+1,clear,Chinese,167.7,1,41
+3,clear,Chinese,114.7,0,20
+5,storm,Continental,54.1,1,37
+6,rain,Bakery,51.3,1,32
+6,clear,Chinese,106.9,1,33
+1,cloudy,North Indian,26.5,1,24
+4,clear,North Indian,191.8,0,34
+0,clear,Bakery,143.9,0,27
+4,clear,Bakery,94.6,0,19
+6,clear,Bakery,75.6,1,31
+0,clear,North Indian,161.1,1,45
+4,clear,South Indian,75.5,0,11
+6,clear,Chinese,79.3,0,23
+5,clear,South Indian,89.4,0,23
+2,rain,Chinese,124.6,0,30
+0,cloudy,Continental,144.8,0,25
+6,rain,South Indian,167.7,1,49
+6,clear,North Indian,161.8,1,48
+4,cloudy,Chinese,120.0,0,23
+6,rain,Bakery,160.8,0,36
+0,clear,Continental,93.2,0,22
+4,clear,South Indian,47.2,0,11
+0,clear,South Indian,93.2,0,16
+6,clear,Continental,87.7,0,20
+4,clear,South Indian,94.7,0,19
+6,clear,Street Food,81.6,0,23
+3,clear,Street Food,101.6,1,22
+0,cloudy,North Indian,144.8,0,28
+0,clear,Street Food,188.6,0,37
+2,clear,North Indian,51.0,0,0
+5,cloudy,Chinese,68.5,0,19
+1,clear,Bakery,88.3,1,29
+5,clear,South Indian,150.6,0,35
+1,clear,South Indian,111.8,0,23
+3,clear,North Indian,91.0,1,25
+1,clear,Bakery,148.7,0,23
+3,clear,North Indian,158.3,0,21
+3,clear,Chinese,119.2,0,26
+0,storm,Chinese,87.4,0,27
+3,rain,Street Food,130.8,1,42
+5,clear,Street Food,110.7,1,33
+6,clear,Bakery,110.4,0,29
+2,clear,Bakery,99.5,0,12
+6,rain,Continental,157.0,0,35
+6,rain,Chinese,130.0,1,44
+6,clear,North Indian,161.4,1,48
+2,clear,Street Food,173.5,0,38
+5,clear,Chinese,138.4,1,40
+3,rain,Chinese,99.7,0,18
+0,rain,North Indian,161.6,1,39
+1,clear,South Indian,138.6,0,22
+4,cloudy,Continental,224.1,0,49
+1,clear,Chinese,132.4,1,37
+3,cloudy,Continental,147.9,1,41
+5,rain,South Indian,131.6,0,33
+1,clear,North Indian,116.0,1,31
+3,clear,Street Food,109.6,0,23
+1,cloudy,Chinese,131.8,0,22
+3,clear,Chinese,140.8,1,34
+1,rain,South Indian,166.2,1,41
+6,clear,Continental,132.4,0,28
+0,rain,Continental,101.5,1,32
+6,clear,Chinese,106.9,1,32
+5,clear,Street Food,67.1,0,19
+5,clear,Street Food,186.4,1,51
+5,clear,South Indian,98.4,0,23
+1,clear,Continental,158.7,1,35
+6,cloudy,Street Food,131.1,0,30
+4,clear,Chinese,132.1,0,22
+6,clear,North Indian,115.3,0,27
+6,clear,North Indian,88.5,0,26
+4,clear,Bakery,81.3,0,10
+2,rain,Street Food,189.1,1,57
+0,rain,North Indian,124.6,0,26
+0,clear,Continental,165.0,0,31
+2,cloudy,Chinese,175.4,0,29
+5,cloudy,South Indian,103.6,0,29
+3,storm,Continental,136.9,0,32
+3,clear,Street Food,121.8,1,30
+1,clear,South Indian,73.7,0,11
+3,clear,North Indian,112.6,1,29
+4,rain,Chinese,143.5,1,42
+6,cloudy,South Indian,100.0,0,25
+5,clear,Bakery,107.0,1,35
+4,clear,Continental,113.1,0,18
+6,cloudy,North Indian,204.5,1,50
+2,rain,Chinese,46.6,1,21
+6,clear,Bakery,140.1,1,43
+2,cloudy,Chinese,109.9,1,32
+0,clear,Continental,94.4,0,20
+2,clear,South Indian,108.9,0,20
+0,clear,South Indian,146.7,1,38
+0,cloudy,North Indian,149.0,0,26
+6,storm,North Indian,127.4,1,40
+5,clear,North Indian,163.7,0,35
+1,clear,Continental,170.8,0,29
+5,clear,North Indian,152.7,0,29
+0,clear,Continental,98.2,1,25
+1,clear,Street Food,139.8,0,26
+4,clear,Bakery,140.0,0,21
+2,clear,Continental,87.4,1,23
+5,clear,North Indian,57.2,0,22
+6,clear,Chinese,39.1,0,7
+0,cloudy,Street Food,122.8,0,21
+0,clear,Chinese,131.9,0,19
+6,cloudy,Bakery,72.7,0,16
+3,rain,Bakery,161.8,1,42
+3,cloudy,South Indian,126.1,0,19
+3,clear,North Indian,174.0,0,34
+3,clear,North Indian,134.8,0,30
+4,cloudy,South Indian,77.3,0,17
+4,clear,South Indian,138.3,0,29
+1,clear,Continental,146.8,1,31
+4,clear,Continental,98.1,1,27
+4,clear,Chinese,62.3,0,13
+0,clear,Bakery,124.0,0,26
+2,cloudy,Bakery,80.0,1,31
+5,clear,Bakery,164.8,0,40
+4,clear,Street Food,103.7,0,22
+0,rain,Chinese,189.0,0,49
+0,clear,Bakery,35.0,0,7
+4,cloudy,Chinese,125.4,1,31
+3,clear,South Indian,177.2,1,43
+6,clear,North Indian,84.4,0,18
+3,rain,North Indian,113.6,0,25
+6,clear,Street Food,103.9,0,18
+1,clear,South Indian,92.6,1,25
+3,rain,Street Food,129.8,0,27
+0,cloudy,Bakery,68.2,0,16
+4,cloudy,Chinese,115.6,1,35
+1,clear,Street Food,140.6,1,31
+3,clear,Street Food,111.4,0,28
+2,cloudy,Street Food,80.0,0,15
+1,clear,Chinese,161.2,0,30
+0,clear,South Indian,149.2,1,30
+3,cloudy,North Indian,78.4,1,22
+6,clear,Street Food,68.2,1,32
+1,clear,Street Food,81.9,0,15
+2,clear,Continental,141.8,0,26
+1,clear,North Indian,131.0,0,24
+5,cloudy,Bakery,151.6,0,28
+2,rain,South Indian,107.0,0,23
+6,clear,Continental,83.0,0,27
+1,clear,Continental,156.8,0,33
+0,clear,North Indian,97.9,1,27
+4,clear,North Indian,127.5,1,39
+4,clear,North Indian,58.0,0,5
+6,rain,Street Food,97.2,0,24
+6,clear,Street Food,160.4,1,52
+6,clear,Chinese,91.3,0,25
+4,storm,Chinese,152.6,0,34
+2,clear,Chinese,26.8,1,15
+3,rain,Chinese,97.6,0,18
+0,clear,Continental,113.1,0,21
+3,clear,Chinese,189.7,1,45
+2,rain,Continental,73.2,1,27
+0,clear,Chinese,146.8,0,22
+1,clear,Continental,162.3,1,40
+3,clear,Street Food,91.1,0,14
+2,cloudy,South Indian,105.1,1,25
+6,cloudy,North Indian,125.7,1,44
+3,clear,Continental,60.7,1,30
+6,cloudy,North Indian,101.8,1,42
+4,cloudy,South Indian,171.0,1,43
+0,clear,Bakery,140.9,0,24
+1,clear,Chinese,113.7,1,30
+4,clear,Continental,124.5,0,24
+3,clear,Bakery,143.2,0,24
+2,clear,North Indian,150.9,0,32
+3,clear,Chinese,97.7,0,9
+6,clear,North Indian,181.4,1,47
+2,clear,Chinese,172.7,0,34
+0,cloudy,South Indian,147.1,0,23
+2,clear,Street Food,86.3,0,15
+6,storm,South Indian,79.2,1,41
+5,rain,South Indian,106.9,1,45
+5,cloudy,North Indian,122.4,1,33
+6,storm,North Indian,49.3,0,17
+0,rain,South Indian,139.8,1,35
+1,clear,South Indian,171.5,0,25
+0,cloudy,Bakery,143.1,0,20
+0,clear,Street Food,93.0,1,23
+5,cloudy,Street Food,88.2,0,27
+6,clear,Street Food,132.0,1,39
+1,clear,Street Food,113.9,0,21
+5,clear,Chinese,137.7,1,37
+3,storm,Chinese,144.1,0,36
+0,clear,Continental,163.7,1,47
+6,clear,South Indian,74.7,0,16
+6,clear,Continental,128.9,1,46
+3,clear,Street Food,105.5,1,30
+4,rain,South Indian,116.1,0,25
+2,cloudy,Bakery,154.6,0,29
+5,clear,Street Food,158.9,1,46
+3,clear,Continental,175.9,0,39
+6,clear,Chinese,137.0,0,33
+0,clear,South Indian,115.6,1,33
+1,rain,South Indian,109.9,0,22
+6,cloudy,South Indian,50.6,1,28
+2,clear,Bakery,173.6,1,37
+2,cloudy,Continental,107.1,0,20
+5,clear,South Indian,140.2,0,43
+1,cloudy,Continental,147.2,1,26
+3,clear,Bakery,70.2,1,24
+2,cloudy,North Indian,83.1,1,26
+1,clear,North Indian,181.9,1,42
+6,rain,Street Food,131.6,0,33
+1,clear,Bakery,96.8,0,18
+0,clear,Continental,114.9,1,30
+4,clear,Street Food,163.4,1,40
+6,clear,Continental,157.4,0,32
+0,clear,Continental,61.4,0,19
+4,cloudy,South Indian,185.4,0,32
+3,cloudy,Bakery,158.6,1,41
+5,clear,Bakery,113.9,0,24
+0,cloudy,South Indian,72.3,0,17
+6,cloudy,Bakery,162.2,0,38
+4,clear,Bakery,139.1,1,37
+5,clear,North Indian,61.7,1,23
+2,clear,North Indian,110.7,1,27
+6,clear,Continental,245.0,1,67
+4,cloudy,Continental,120.7,1,29
+0,rain,Continental,90.3,0,23
+6,cloudy,Chinese,79.7,1,27
+5,clear,Street Food,190.9,1,54
+2,cloudy,Chinese,153.9,1,35
+3,cloudy,South Indian,176.3,0,28
+2,clear,North Indian,129.9,0,21
+3,rain,Street Food,170.2,0,32
+6,clear,Bakery,86.1,0,23
+6,clear,Chinese,126.5,1,39
+1,clear,South Indian,131.5,0,19
+6,clear,North Indian,175.3,0,37
+3,rain,North Indian,132.8,0,23
+4,clear,North Indian,95.0,1,30
+5,clear,Continental,122.6,0,31
+3,clear,South Indian,52.9,0,9
+3,clear,North Indian,27.2,0,6
+3,clear,South Indian,153.3,1,45
+6,clear,Bakery,105.0,0,24
+2,cloudy,Chinese,109.5,0,16
+1,clear,North Indian,153.2,1,40
+2,cloudy,Bakery,175.9,0,27
+1,clear,Chinese,141.4,0,25
+2,cloudy,South Indian,197.1,1,43
+0,rain,Bakery,140.1,0,26
+0,clear,Street Food,132.1,1,33
+5,clear,Continental,129.6,1,43
+0,rain,North Indian,68.6,0,21
+3,clear,South Indian,158.2,0,32
+5,cloudy,Continental,22.2,1,21
+5,clear,Street Food,96.5,0,22
+3,clear,Street Food,120.9,0,12
+1,clear,Street Food,88.4,1,27
+6,rain,Bakery,101.9,0,19
+5,clear,Continental,193.6,0,33
+4,cloudy,Continental,164.2,0,29
+0,cloudy,Bakery,92.6,1,28
+0,clear,Bakery,101.2,1,26
+2,clear,Continental,68.9,1,29
+1,clear,North Indian,148.2,1,39
+6,clear,Street Food,110.0,1,35
+1,cloudy,North Indian,41.3,1,23
+1,clear,Chinese,124.0,0,29
+6,clear,Chinese,137.6,1,43
+5,cloudy,Street Food,158.5,1,41
+1,cloudy,North Indian,117.1,0,19
+2,clear,Chinese,105.1,1,23
+3,cloudy,Chinese,199.5,0,36
+4,clear,North Indian,120.3,1,27
+6,cloudy,South Indian,148.8,0,31
+6,clear,Chinese,98.4,1,35
+6,clear,Street Food,147.6,1,35
+0,clear,Chinese,61.8,1,16
+1,cloudy,Street Food,101.5,0,16
+3,cloudy,Bakery,71.7,0,13
+0,clear,Bakery,95.8,1,25
+2,rain,Street Food,170.0,1,44
+1,rain,Bakery,95.5,1,28
+6,clear,Bakery,148.7,0,27
+0,cloudy,North Indian,180.7,1,40
+1,clear,Bakery,118.9,0,21
+1,storm,North Indian,159.8,0,36
+1,clear,Bakery,141.2,0,26
+3,clear,Continental,124.7,0,24
+2,clear,Bakery,150.0,1,40
+6,clear,Continental,193.6,1,48
+1,cloudy,Chinese,94.5,0,11
+3,clear,Chinese,81.6,1,30
+4,clear,Continental,79.3,0,16
+4,clear,Chinese,159.8,0,25
+5,rain,Chinese,165.2,0,41
+1,cloudy,Chinese,98.5,1,32
+3,clear,Continental,34.6,0,13
+5,clear,South Indian,93.0,1,34
+6,clear,Continental,141.9,0,36
+4,rain,South Indian,117.3,0,20
+4,cloudy,South Indian,127.2,1,33
+6,cloudy,Chinese,99.1,1,32
+4,rain,North Indian,160.6,0,34
+6,clear,Continental,133.7,0,37
+0,cloudy,Bakery,143.5,1,37
+2,clear,Street Food,126.4,1,29
+0,clear,South Indian,141.0,0,20
+0,clear,Continental,138.3,0,31
+3,clear,Continental,82.9,0,17
+1,rain,Bakery,134.9,0,30
+2,clear,Continental,151.7,1,36
+3,rain,Bakery,166.2,0,35
+4,cloudy,Street Food,136.6,1,31
+6,cloudy,North Indian,81.4,1,32
+5,rain,Chinese,87.5,0,21
+2,clear,Continental,102.6,1,27
+2,clear,Continental,127.6,1,30
+5,clear,Chinese,115.1,0,14
+0,clear,South Indian,75.1,0,12
+3,rain,Continental,74.8,0,14
+2,clear,Bakery,36.1,0,6
+1,clear,North Indian,20.0,0,4
+4,clear,Continental,114.7,1,38
+2,clear,Street Food,212.8,0,40
+1,cloudy,Continental,191.9,0,36
+4,clear,Street Food,80.9,1,27
+1,cloudy,Chinese,126.0,0,26
+4,cloudy,North Indian,61.4,0,13
+1,cloudy,Bakery,67.5,0,13
+3,clear,South Indian,72.1,1,26
+5,cloudy,North Indian,111.0,1,26
+1,clear,South Indian,112.7,1,39
+5,clear,Street Food,130.1,1,46
+5,cloudy,Bakery,146.5,0,33
+6,cloudy,South Indian,106.5,0,20
+1,clear,Continental,121.4,1,37
+5,rain,Chinese,76.2,0,21
+6,clear,South Indian,66.2,1,30
+5,cloudy,Street Food,60.0,1,22
+1,storm,Bakery,146.0,1,53
+5,clear,Chinese,106.5,0,19
+0,rain,Chinese,45.2,1,22
+4,cloudy,Bakery,117.5,0,13
+3,cloudy,Chinese,70.0,0,12
+3,cloudy,Chinese,186.4,1,42
+3,cloudy,Chinese,96.8,0,22
+0,clear,Chinese,147.3,0,25
+3,cloudy,Continental,163.6,1,44
+6,clear,North Indian,81.8,0,17
+3,storm,Chinese,123.0,0,29
+1,clear,Chinese,142.1,0,25
+6,clear,South Indian,124.6,1,40
+0,rain,Chinese,134.4,1,40
+3,clear,Chinese,66.8,1,25
+3,clear,Chinese,142.2,0,27
+3,cloudy,Street Food,100.6,0,21
+6,clear,Continental,134.0,0,27
+2,clear,Continental,156.8,0,30
+6,clear,South Indian,146.8,0,39
+0,clear,Street Food,133.9,0,17
+5,clear,North Indian,145.7,1,44
+4,clear,Continental,147.5,1,39
+1,clear,South Indian,179.8,0,38
+1,clear,Bakery,118.6,0,24
+5,clear,Chinese,126.6,0,29
+4,cloudy,South Indian,157.3,0,30
+4,cloudy,North Indian,100.4,0,15
+0,clear,Bakery,66.6,1,20
+4,clear,Chinese,139.7,0,20
+6,rain,South Indian,111.8,1,46
+0,cloudy,Street Food,71.7,0,15
+3,clear,North Indian,140.0,1,32
+3,clear,Chinese,177.2,1,43
+6,clear,North Indian,54.8,1,31
+1,rain,North Indian,160.9,1,47
+3,rain,North Indian,20.0,0,4
+5,rain,South Indian,104.0,0,16
+0,clear,Street Food,193.6,1,46
+5,clear,Chinese,106.9,1,32
+5,clear,Street Food,123.6,1,41
+5,clear,South Indian,150.5,0,37
+4,clear,Bakery,51.3,0,14
+5,cloudy,North Indian,122.9,0,35
+5,clear,North Indian,122.6,0,33
+6,rain,North Indian,194.5,0,52
+2,clear,Street Food,70.6,0,18
+3,clear,Bakery,104.7,1,35
+4,rain,Bakery,82.9,1,29
+1,cloudy,Street Food,78.6,0,9
+5,clear,South Indian,165.1,1,56
+5,cloudy,Bakery,121.1,1,38
+4,clear,Continental,97.8,1,33
+2,clear,Continental,99.3,1,26
+2,clear,Continental,97.5,1,31
+3,clear,Chinese,101.0,0,8
+4,cloudy,North Indian,69.4,0,11
+5,clear,North Indian,109.7,0,25
+4,cloudy,Continental,105.6,1,31
+6,cloudy,Continental,89.7,1,36
+6,clear,Bakery,126.2,1,34
+4,clear,Continental,129.6,0,26
+2,clear,South Indian,97.7,1,32
+4,cloudy,Chinese,114.2,1,40
+2,cloudy,Chinese,206.3,0,40
+4,cloudy,Street Food,204.8,1,45
+5,clear,Continental,77.8,1,25
+2,clear,Continental,83.4,1,32
+3,clear,Bakery,77.6,1,27
+0,clear,Chinese,162.3,1,39
+5,cloudy,Street Food,104.1,0,18
+3,clear,Bakery,129.6,1,30
+3,clear,Street Food,199.9,1,49
+3,clear,Bakery,119.6,1,33
+1,clear,Continental,148.2,0,19
+4,cloudy,North Indian,140.8,1,38
+5,clear,Continental,96.5,0,17
+2,rain,North Indian,162.4,0,39
+0,rain,Continental,86.0,1,30
+2,rain,Bakery,173.6,0,33
+1,cloudy,Continental,96.5,0,21
+2,cloudy,South Indian,100.9,1,30
+4,cloudy,North Indian,76.5,1,29
+0,clear,Bakery,83.0,1,25
+5,clear,Bakery,102.9,1,35
+1,cloudy,Chinese,22.7,0,3
+6,clear,Bakery,110.7,0,27
+5,clear,Bakery,99.7,1,41
+1,rain,Continental,151.6,0,29
+3,clear,North Indian,136.9,0,27
+0,clear,Street Food,91.7,0,13
+0,cloudy,Chinese,101.7,0,10
+6,clear,Bakery,110.6,0,27
+5,rain,Street Food,179.4,1,54
+1,clear,Chinese,87.1,1,25
+1,rain,Continental,91.2,1,24
+1,cloudy,North Indian,74.9,0,15
+2,clear,Street Food,60.7,1,22
+2,clear,North Indian,132.3,1,30
+2,clear,Continental,128.1,1,28
+3,clear,Chinese,171.3,0,30
+1,clear,North Indian,161.7,1,42
+6,storm,Chinese,215.9,0,55
+5,clear,Street Food,117.0,1,34
+5,rain,South Indian,109.6,1,40
+1,clear,South Indian,68.0,0,16
+4,storm,South Indian,147.9,0,30
+5,clear,North Indian,124.7,0,29
+1,clear,South Indian,146.1,1,42
+5,cloudy,Continental,74.4,0,14
+2,clear,Bakery,134.1,1,39
+5,rain,Bakery,128.2,1,50
+3,clear,Bakery,125.6,1,32
+5,clear,Bakery,92.7,0,21
+1,clear,Chinese,167.6,0,34
+2,cloudy,Street Food,202.0,1,46
+1,clear,South Indian,75.6,0,4
+1,clear,Bakery,148.8,0,26
+2,clear,North Indian,20.0,1,15
+2,clear,Bakery,146.7,0,29
+0,clear,North Indian,45.2,0,5
+4,rain,South Indian,99.0,1,31
+3,clear,Chinese,67.5,1,26
+5,cloudy,Bakery,111.4,0,26
+4,clear,North Indian,153.6,1,32
+1,clear,South Indian,45.7,1,23
+0,clear,Chinese,105.6,1,28
+2,clear,Bakery,99.5,1,32
+3,clear,Street Food,183.2,1,37
+1,clear,Continental,137.3,0,24
+5,clear,Continental,72.9,1,31
+4,storm,Chinese,101.1,1,36
+5,clear,Bakery,182.2,0,34
+0,clear,North Indian,148.6,0,17
+5,clear,North Indian,83.3,1,37
+1,clear,South Indian,109.3,1,31
+3,cloudy,South Indian,110.6,1,35
+3,clear,Chinese,98.5,1,31
+5,cloudy,Street Food,51.6,0,18
+1,clear,Continental,92.9,0,15
+1,clear,Chinese,175.6,1,44
+2,rain,South Indian,104.8,1,39
+2,clear,Continental,115.9,0,21
+1,cloudy,South Indian,125.6,1,40
+1,clear,Street Food,208.7,0,32
+1,rain,Chinese,120.4,0,19
+3,clear,Continental,163.8,1,43
+2,clear,Street Food,96.1,0,14
+2,cloudy,South Indian,109.6,1,38
+5,clear,Chinese,120.5,1,43
+1,clear,Continental,89.0,0,22
+6,storm,South Indian,111.9,0,38
+5,cloudy,North Indian,155.5,1,40
+1,cloudy,South Indian,88.0,0,9
+2,cloudy,North Indian,120.0,0,28
+1,rain,Bakery,148.3,0,25
+1,rain,North Indian,87.0,0,26
+2,cloudy,South Indian,163.8,0,32
+0,clear,Street Food,122.9,0,22
+0,clear,Continental,113.4,0,22
+3,cloudy,Bakery,39.7,1,19
+4,rain,Bakery,105.1,1,32
+2,clear,South Indian,134.9,0,30
+6,clear,Continental,189.8,0,46
+2,clear,South Indian,142.7,0,26
+6,clear,Continental,165.0,0,33
+1,rain,Bakery,71.6,1,32
+3,clear,Street Food,114.9,0,13
+5,cloudy,Street Food,168.8,0,38
+0,cloudy,North Indian,84.5,0,18
+6,rain,South Indian,158.6,0,35
+2,clear,Continental,149.3,0,31
+3,rain,South Indian,131.0,0,27
+4,cloudy,Continental,106.9,0,17
+4,cloudy,Street Food,80.5,1,28
+0,clear,South Indian,191.0,1,40
+6,clear,Street Food,145.3,1,46
+4,cloudy,Street Food,133.6,1,26
+6,clear,Street Food,103.5,1,36
+3,clear,North Indian,121.5,1,32
+4,cloudy,South Indian,126.6,0,21
+3,cloudy,North Indian,136.0,1,36
+6,clear,North Indian,149.4,0,33
+5,clear,North Indian,88.7,1,36
+6,clear,Chinese,61.3,1,29
+3,rain,North Indian,123.4,0,28
+5,storm,South Indian,50.1,0,24
+2,clear,Street Food,107.1,0,17
+3,clear,Street Food,99.6,0,17
+5,clear,Street Food,139.7,0,32
+0,clear,North Indian,199.3,0,35
+4,rain,Continental,42.2,1,26
+0,clear,Continental,211.0,0,38
+4,clear,North Indian,110.7,1,31
+3,clear,Street Food,133.9,0,18
+3,clear,Chinese,63.4,1,25
+3,rain,Street Food,159.9,1,40
+3,cloudy,North Indian,121.7,0,18
+2,cloudy,Continental,117.5,0,28
+3,clear,North Indian,42.5,1,20
+3,rain,Street Food,123.0,1,40
+5,clear,Continental,153.8,0,36
+3,rain,North Indian,110.5,0,24
+4,rain,South Indian,167.0,1,43
+5,clear,Chinese,165.3,1,49
+6,rain,North Indian,94.4,0,32
+0,clear,North Indian,183.8,1,43
+4,cloudy,Street Food,121.8,1,40
+1,clear,Street Food,122.0,1,31
+1,clear,Continental,124.0,0,17
+5,clear,Street Food,122.8,0,21
+0,clear,Continental,20.0,1,7
+5,clear,North Indian,112.6,1,35
+5,clear,Bakery,65.4,1,27
+6,cloudy,North Indian,185.1,0,42
+4,clear,Bakery,183.4,1,43
+6,clear,Chinese,154.1,1,47
+0,storm,North Indian,110.5,1,38
+6,rain,South Indian,79.7,1,34
+1,clear,Bakery,93.7,0,15
+2,clear,Street Food,197.7,1,51
+0,cloudy,Continental,92.3,0,10
+2,cloudy,North Indian,25.8,1,16
+5,clear,Street Food,161.2,1,44
+1,cloudy,Bakery,180.0,1,46
+5,clear,Chinese,186.4,0,39
+4,clear,Continental,161.5,1,39
+4,cloudy,Street Food,168.1,1,39
+6,cloudy,Chinese,122.1,0,34
+3,rain,North Indian,36.9,0,11
+2,clear,North Indian,121.1,0,30
+6,clear,Continental,144.9,0,33
+3,clear,Street Food,114.6,1,31
+4,clear,Bakery,112.8,1,30
+2,clear,Continental,81.4,1,27
+1,clear,South Indian,79.9,1,22
+1,clear,Chinese,193.5,0,35
+1,cloudy,North Indian,195.0,1,45
+1,clear,Chinese,119.9,0,23
+5,clear,Continental,131.3,0,31
+0,cloudy,Street Food,80.8,1,26
+4,clear,Street Food,145.7,1,37
+6,rain,Bakery,190.4,0,51
+5,clear,North Indian,58.8,0,18
+2,clear,Bakery,138.6,0,35
+0,rain,South Indian,141.6,0,30
+5,cloudy,Continental,141.1,0,35
+0,cloudy,Street Food,185.7,0,31
+4,cloudy,Street Food,201.4,0,42
+4,clear,Continental,110.7,0,17
+1,cloudy,South Indian,146.9,1,38
+5,rain,Continental,123.4,0,31
+1,storm,Bakery,94.7,0,27
+1,clear,Continental,130.8,1,33
+5,clear,Chinese,146.9,0,29
+6,cloudy,Chinese,128.7,1,38
+1,clear,Continental,84.8,1,31
+6,clear,North Indian,101.5,1,36
+6,clear,Street Food,101.8,0,19
+5,clear,North Indian,86.3,0,26
+0,clear,Street Food,132.5,0,20
+2,clear,North Indian,136.7,0,28
+4,clear,Continental,159.2,0,31
+6,clear,Chinese,85.7,1,34
+5,rain,Continental,96.9,0,35
+2,clear,Chinese,182.2,1,39
+1,clear,Street Food,113.4,1,33
+6,clear,North Indian,121.2,0,33
+1,clear,Street Food,113.0,0,18
+2,storm,Bakery,165.3,1,45
+6,rain,Bakery,166.9,0,39
+3,clear,North Indian,164.5,1,41
+1,clear,North Indian,121.1,0,16
+0,clear,Chinese,85.1,0,18
+3,clear,South Indian,197.0,0,30
+6,clear,Bakery,154.3,0,39
+3,clear,Street Food,101.7,0,20
+4,clear,Chinese,177.0,1,50
+1,cloudy,Bakery,98.6,0,20
+5,clear,North Indian,176.4,1,47
+5,clear,Bakery,179.1,0,35
+4,clear,North Indian,83.1,0,16
+5,clear,Bakery,143.3,0,32
+4,clear,Chinese,151.3,0,32
+2,clear,Chinese,224.6,1,47
+5,clear,South Indian,90.3,0,30
+5,clear,Chinese,177.3,0,43
+5,rain,Street Food,120.7,1,41
+1,rain,Bakery,70.3,0,24
+4,clear,Chinese,115.2,1,28
+0,clear,South Indian,120.1,1,32
+4,cloudy,Continental,77.6,1,19
+3,cloudy,Bakery,132.5,0,31
+2,clear,South Indian,158.3,0,22
+6,clear,Bakery,129.5,1,34
+6,clear,Street Food,98.3,0,21
+0,cloudy,Street Food,114.1,0,26
+1,clear,Continental,119.8,1,35
+1,clear,South Indian,128.7,0,24
+6,clear,South Indian,164.4,1,50
+3,clear,Bakery,130.9,1,33
+5,clear,Chinese,63.9,1,29
+5,cloudy,North Indian,97.5,0,30
+5,clear,Bakery,126.6,1,38
+0,clear,North Indian,165.0,0,27
+0,clear,Street Food,171.9,1,43
+2,rain,Chinese,191.0,1,51
+2,clear,Chinese,125.2,0,23
+5,clear,North Indian,150.5,1,47
+1,clear,South Indian,61.8,1,20
+2,rain,Street Food,137.2,0,29
+1,cloudy,Continental,77.0,0,15
+1,rain,Street Food,117.5,1,36
+1,cloudy,Street Food,241.2,0,50
+1,clear,North Indian,132.1,0,25
+3,clear,Chinese,85.4,0,14
+2,clear,Street Food,136.3,1,37
+3,cloudy,Chinese,99.3,1,32
+3,cloudy,Continental,81.6,0,18
+5,clear,Continental,204.1,0,46
+6,rain,Bakery,162.7,1,43
+3,clear,Street Food,133.8,0,14
+4,clear,Street Food,104.3,0,24
+5,clear,Continental,107.6,1,37
+4,rain,Continental,181.7,1,47
+0,rain,Chinese,132.3,0,31
+6,clear,North Indian,20.0,0,17
+1,storm,Bakery,216.8,0,53
+2,rain,North Indian,127.3,1,41
+4,rain,Bakery,133.7,1,35
+2,rain,Chinese,163.5,1,40
+1,clear,Bakery,138.6,0,15
+6,cloudy,Street Food,149.9,1,46
+0,cloudy,Continental,103.1,0,23
+1,cloudy,Continental,70.8,1,28
+6,clear,Chinese,131.2,1,42
+5,cloudy,Chinese,177.3,0,37
+0,storm,North Indian,94.1,1,33
+5,clear,North Indian,90.9,1,29
+6,storm,Bakery,168.8,1,54
+0,clear,Street Food,101.7,0,14
+2,clear,North Indian,103.6,0,26
+3,clear,South Indian,105.1,1,24
+0,cloudy,Continental,117.4,1,30
+1,cloudy,Bakery,57.1,1,13
+1,clear,Bakery,98.4,0,19
+1,cloudy,Bakery,129.2,0,23
+2,clear,North Indian,128.9,0,22
+3,clear,South Indian,166.3,0,26
+1,rain,Chinese,193.6,1,49
+2,cloudy,North Indian,180.5,1,40
+1,cloudy,Chinese,156.6,0,28
+5,cloudy,Chinese,114.1,1,44
+1,storm,Street Food,95.1,0,26
+6,clear,South Indian,120.7,1,40
+3,clear,Street Food,143.4,1,34
+5,clear,Bakery,152.9,1,40
+4,cloudy,Bakery,144.9,0,26
+1,cloudy,Bakery,115.2,0,31
+4,cloudy,Street Food,151.5,0,26
+1,clear,South Indian,170.4,1,42
+0,clear,Chinese,155.2,0,25
+1,cloudy,Continental,118.7,1,20
+1,storm,Street Food,86.6,1,30
+0,clear,North Indian,85.7,1,35
+0,clear,Chinese,92.8,1,29
+6,clear,South Indian,130.3,1,46
+3,clear,South Indian,140.8,1,34
+2,clear,Bakery,63.4,1,12
+6,clear,South Indian,99.8,1,30
+1,cloudy,Bakery,129.7,1,35
+2,clear,Street Food,84.0,1,26
+5,clear,Bakery,137.4,1,41
+4,clear,South Indian,107.7,1,27
+2,rain,North Indian,91.1,1,34
+1,clear,Chinese,122.1,0,20
+0,clear,Continental,135.7,1,36
+0,clear,Bakery,86.1,1,26
+1,cloudy,Chinese,110.3,0,18
+5,rain,South Indian,138.7,1,41
+4,clear,Street Food,89.5,0,14
+3,clear,Street Food,53.7,1,27
+5,clear,Continental,58.5,1,31
+1,cloudy,Bakery,103.3,1,33
+1,rain,Street Food,67.3,1,23
+2,clear,Chinese,106.1,1,23
+6,clear,North Indian,186.6,1,54
+4,cloudy,Continental,64.9,1,25
+5,cloudy,Chinese,108.7,1,36
+1,clear,Bakery,205.3,1,45
+5,clear,Bakery,136.3,0,25
+0,clear,Chinese,105.3,1,32
+1,cloudy,Chinese,113.7,0,25
+3,cloudy,Chinese,137.2,0,22
+0,cloudy,Continental,187.8,1,41
+6,rain,Continental,98.8,1,43
+6,clear,Continental,89.7,1,30
+3,clear,Continental,64.8,0,19
+2,clear,Street Food,124.1,0,22
+0,rain,South Indian,63.8,1,24
+4,cloudy,South Indian,101.4,0,18
+3,clear,Bakery,83.7,0,14
+5,clear,Street Food,163.0,0,40
+4,cloudy,Continental,99.7,1,31
+0,cloudy,Chinese,135.9,0,29
+0,cloudy,Chinese,55.8,0,11
+5,clear,Chinese,125.3,1,37
+1,rain,North Indian,71.9,1,27
+6,cloudy,Continental,103.0,0,23
+0,cloudy,South Indian,208.4,0,43
+5,cloudy,South Indian,157.3,0,38
+6,rain,Continental,114.9,0,30
+3,rain,Street Food,248.0,1,55
+0,cloudy,South Indian,83.4,0,21
+6,clear,Street Food,166.6,1,47
+1,clear,Continental,58.7,0,10
+3,rain,Street Food,110.2,1,40
+6,cloudy,Chinese,66.1,0,16
+5,clear,Street Food,130.3,0,28
+0,clear,Continental,122.2,1,31
+5,rain,Bakery,107.7,0,24
+1,rain,Continental,163.7,1,45
+5,storm,Chinese,97.3,0,28
+4,clear,Continental,133.1,1,32
+2,cloudy,Street Food,152.8,1,35
+2,rain,Bakery,60.7,1,23
+0,clear,North Indian,90.1,0,13
+6,clear,Bakery,122.2,0,29
+1,storm,Street Food,145.2,1,44
+2,clear,Bakery,176.8,1,42
+3,cloudy,Chinese,111.4,1,39
+4,cloudy,Chinese,107.3,1,29
+3,cloudy,Bakery,85.1,1,28
+3,clear,Continental,133.2,1,37
+4,cloudy,Chinese,108.1,0,19
+6,clear,Chinese,109.0,0,27
+2,rain,Chinese,116.2,0,25
+5,clear,North Indian,142.1,1,42
+5,cloudy,North Indian,97.5,1,31
+6,cloudy,North Indian,89.1,0,20
+6,clear,Chinese,137.3,0,31
+5,clear,Continental,20.0,0,2
+1,cloudy,Chinese,95.9,1,33
+5,clear,Street Food,73.9,0,28
+5,clear,South Indian,168.1,0,37
+2,clear,Chinese,102.4,0,21
+4,rain,South Indian,97.6,1,36
+1,cloudy,South Indian,118.1,1,26
+3,clear,Continental,96.2,1,31
+5,storm,South Indian,103.9,1,41
+1,clear,South Indian,123.9,0,31
+2,clear,Bakery,103.1,0,18
+5,clear,Bakery,102.8,1,38
+3,clear,South Indian,79.6,1,24
+6,clear,North Indian,73.8,1,38
+0,cloudy,South Indian,122.4,1,30
+5,clear,Continental,132.3,1,44
+5,cloudy,Street Food,62.9,1,30
+6,clear,North Indian,150.4,0,35
+1,clear,North Indian,150.6,0,28
+6,clear,Continental,159.0,0,32
+2,cloudy,Street Food,132.0,0,13
+2,cloudy,Continental,145.5,1,40
+2,clear,Street Food,207.4,1,45
+4,clear,Continental,107.9,0,24
+4,clear,North Indian,78.2,1,25
+3,rain,Chinese,58.6,1,29
+0,clear,Bakery,190.2,1,47
+6,cloudy,Continental,190.8,0,30
+1,clear,South Indian,83.0,0,17
+0,clear,South Indian,90.9,1,25
+4,cloudy,Continental,107.0,0,24
+2,clear,Chinese,169.0,0,33
+4,clear,Continental,68.5,1,25
+6,storm,Chinese,41.3,1,30
+0,clear,Chinese,206.7,0,34
+1,clear,Continental,132.5,0,22
+3,clear,North Indian,138.2,1,28
+5,clear,Chinese,111.8,0,24
+4,cloudy,Chinese,138.6,1,29
+2,clear,Bakery,59.4,0,5
+4,rain,Bakery,86.4,0,20
+6,cloudy,Chinese,124.2,1,40
+3,storm,South Indian,29.2,0,13
+6,rain,South Indian,107.9,0,27
+5,rain,South Indian,105.4,1,35
+2,cloudy,South Indian,107.9,1,28
+1,clear,Bakery,98.0,0,14
+5,clear,North Indian,80.2,0,20
+1,cloudy,North Indian,47.1,0,2
+2,clear,Continental,125.8,1,35
+1,cloudy,South Indian,108.0,1,27
+4,clear,Bakery,65.0,1,23
+2,rain,Bakery,122.5,0,30
+4,clear,Bakery,108.2,0,21
+6,rain,Chinese,101.6,0,31
+5,clear,Chinese,33.7,0,4
+6,clear,Chinese,147.3,0,31
+0,rain,South Indian,70.7,0,21
+3,rain,Continental,122.5,0,28
+1,cloudy,Street Food,87.7,1,33
+6,storm,South Indian,104.5,0,40
+4,clear,North Indian,166.1,1,41
+2,rain,Continental,141.3,0,28
+3,clear,Chinese,165.2,0,26
+4,clear,Bakery,133.2,1,32
+3,clear,Street Food,135.8,1,33
+3,clear,Street Food,48.8,1,16
+0,cloudy,Chinese,107.3,1,26
+3,cloudy,Street Food,111.0,0,22
+2,clear,North Indian,168.9,1,47
+5,rain,Chinese,99.8,1,42
+6,clear,South Indian,130.6,1,38
+5,clear,Street Food,129.0,1,43
+0,cloudy,Continental,166.3,1,41
+5,clear,Chinese,114.7,1,36
+2,clear,North Indian,153.1,1,37
+2,cloudy,Bakery,51.8,0,9
+6,clear,Continental,55.4,1,29
+6,clear,Street Food,28.7,1,22
+0,cloudy,Chinese,151.4,0,24
+2,clear,North Indian,146.9,0,23
+5,rain,Chinese,155.9,1,49
+3,cloudy,Continental,92.9,0,18
+1,clear,South Indian,97.5,1,26
+3,clear,North Indian,115.2,0,16
+6,clear,Bakery,177.7,1,53
+1,cloudy,Continental,187.8,1,48
+5,clear,Chinese,151.8,0,25
+5,rain,Continental,133.2,0,39
+6,clear,Bakery,173.4,1,46
+2,cloudy,North Indian,109.8,0,21
+1,clear,Chinese,104.4,0,23
+3,clear,South Indian,114.8,1,37
+3,clear,North Indian,80.9,1,29
+2,cloudy,North Indian,113.0,0,21
+5,storm,Chinese,75.3,0,22
+5,clear,Continental,161.0,1,37
+1,clear,Continental,141.7,1,39
+5,clear,Bakery,177.2,0,43
+1,clear,Chinese,54.8,0,7
+2,rain,Continental,196.1,0,38
+0,rain,Bakery,57.1,0,12
+2,rain,Continental,72.1,1,25
+6,clear,Street Food,95.2,0,27
+3,clear,South Indian,172.3,1,42
+4,cloudy,Bakery,129.0,0,22
+0,clear,Bakery,110.2,1,40
+4,cloudy,Continental,88.3,0,10
+2,clear,North Indian,65.0,1,24
+5,clear,Continental,165.3,1,42
+6,rain,Street Food,151.9,0,37
+3,clear,Continental,174.1,1,42
+0,storm,North Indian,135.9,0,36
+3,clear,South Indian,20.0,1,13
+0,clear,Continental,70.2,1,21
+3,clear,Bakery,138.6,1,34
+0,clear,Chinese,105.2,1,25
+4,clear,Street Food,97.6,0,20
+2,clear,Bakery,75.9,0,15
+1,cloudy,South Indian,157.9,1,40
+0,rain,South Indian,138.2,0,29
+6,clear,Street Food,140.0,1,40
+5,clear,Continental,94.7,1,38
+5,clear,Street Food,127.1,0,33
+0,cloudy,Street Food,66.5,1,28
+2,cloudy,Chinese,114.8,1,32
+6,clear,North Indian,20.0,0,15
+4,clear,Street Food,57.3,1,19
+0,clear,Continental,107.1,0,18
+0,clear,North Indian,215.0,1,53
+1,clear,Continental,48.0,1,22
+6,storm,North Indian,70.3,1,35
+1,clear,South Indian,128.7,0,19
+6,clear,Chinese,190.8,0,40
+4,clear,Chinese,128.1,0,20
+6,cloudy,Continental,148.1,1,50
+5,clear,Street Food,106.5,1,38
+2,clear,Chinese,99.6,0,15
+5,clear,Bakery,123.3,0,24
+1,cloudy,Street Food,93.7,1,24
+2,clear,Bakery,149.0,0,25
+1,rain,South Indian,55.7,0,13
+0,clear,Bakery,155.6,1,42
+0,clear,South Indian,121.6,0,18
+1,storm,Chinese,111.4,1,47
+0,rain,Continental,54.3,0,10
+2,clear,South Indian,80.8,1,19
+0,rain,North Indian,167.9,0,41
+0,clear,Street Food,111.7,1,35
+6,clear,Bakery,131.1,0,29
+0,rain,North Indian,84.8,1,31
+0,cloudy,Chinese,118.8,0,23
+0,clear,South Indian,65.1,0,12
+0,cloudy,Street Food,124.0,1,27
+3,clear,Street Food,134.8,0,14
+5,clear,Bakery,132.8,1,37
+5,storm,Chinese,83.9,1,46
+4,clear,North Indian,106.3,0,27
+0,cloudy,South Indian,141.5,0,24
+5,cloudy,North Indian,111.5,1,32
+0,cloudy,Bakery,108.5,0,21
+4,clear,North Indian,196.1,1,47
+2,storm,Bakery,82.0,0,25
+6,cloudy,Street Food,163.2,0,25
+2,cloudy,South Indian,73.8,0,26
+4,clear,Bakery,146.2,1,41
+3,clear,Street Food,148.3,0,26
+3,clear,Chinese,99.6,0,15
+6,clear,Chinese,71.3,1,33
+4,clear,South Indian,41.2,0,9
+2,cloudy,Chinese,95.4,0,18
+3,rain,Street Food,141.0,0,31
+4,clear,Continental,76.9,1,23
+2,clear,South Indian,123.9,0,24
+1,cloudy,Continental,60.9,0,14
+3,clear,Bakery,110.6,1,31
+0,rain,North Indian,74.1,0,19
+1,clear,Bakery,116.9,1,37
+2,clear,South Indian,100.0,1,22
+5,clear,South Indian,72.4,0,16
+5,rain,Chinese,93.6,1,37
+1,clear,Continental,82.6,1,22
+2,cloudy,Street Food,67.4,0,11
+1,clear,South Indian,163.3,0,35
+5,clear,South Indian,105.6,0,24
+1,rain,Chinese,31.9,0,2
+5,clear,Street Food,95.1,0,21
+5,clear,Street Food,156.6,1,44
+4,clear,Chinese,89.5,1,26
+2,rain,Bakery,179.9,1,49
+6,clear,Street Food,85.7,0,23
+4,clear,Street Food,140.1,1,35
+4,storm,Bakery,161.5,0,32
+5,cloudy,Continental,138.0,0,29
+6,rain,Street Food,65.0,1,29
+0,cloudy,South Indian,82.3,0,14
+6,cloudy,Chinese,166.8,1,49
+5,clear,Bakery,87.8,0,23
+1,clear,North Indian,159.0,0,32
+2,cloudy,Continental,102.8,1,27
+5,cloudy,Street Food,125.7,0,35
+1,storm,South Indian,64.6,0,22
+3,cloudy,Bakery,95.7,0,18
+4,clear,Chinese,85.0,1,28
+4,clear,Street Food,129.0,1,31
+6,cloudy,Continental,123.7,0,20
+0,clear,North Indian,138.5,0,23
+2,cloudy,Bakery,100.4,0,21
+6,cloudy,North Indian,82.8,1,31
+3,clear,South Indian,127.3,0,22
+1,cloudy,Street Food,78.8,1,21
+2,cloudy,Street Food,163.1,1,32
+2,rain,North Indian,115.4,0,30
+3,clear,Chinese,107.0,1,28
+1,cloudy,North Indian,138.5,1,33
+4,clear,South Indian,116.9,1,28
+3,clear,Street Food,53.7,1,25
+4,clear,South Indian,77.5,1,27
+1,rain,Continental,162.3,0,29
+4,rain,Bakery,123.4,1,41
+6,clear,Street Food,52.7,1,25
+0,cloudy,Chinese,134.1,0,22
+2,clear,Bakery,97.6,1,26
+4,cloudy,Chinese,85.0,1,22
+4,clear,North Indian,74.2,1,18
+4,cloudy,South Indian,160.0,1,42
+3,clear,Bakery,41.4,0,7
+4,cloudy,Bakery,86.5,1,28
+4,clear,Continental,124.8,1,34
+0,cloudy,Bakery,183.1,0,35
+5,cloudy,Bakery,142.2,0,23
+3,clear,Chinese,86.2,0,12
+0,clear,South Indian,181.2,0,35
+2,rain,Street Food,65.8,1,21
+3,cloudy,Street Food,130.6,0,25
+0,clear,North Indian,139.5,0,20
+6,clear,Bakery,84.8,0,21
+1,clear,North Indian,147.9,0,33
+2,cloudy,Street Food,99.4,1,31
+3,cloudy,Continental,147.8,0,19
+5,clear,Bakery,46.4,0,18
+5,cloudy,Bakery,133.4,1,47
+5,cloudy,Continental,103.5,1,46
+1,cloudy,South Indian,166.0,0,32
+5,clear,Bakery,118.2,0,22
+5,clear,Continental,170.0,1,48
+3,clear,Continental,140.3,1,42
+3,clear,South Indian,114.9,1,30
+0,clear,North Indian,151.5,1,41
+5,clear,Continental,151.8,1,40
+6,clear,Chinese,138.9,1,42
+3,cloudy,Continental,28.3,0,0
+3,clear,Chinese,80.7,0,11
+3,cloudy,Street Food,175.4,1,42
+0,clear,Bakery,69.8,1,21
+4,cloudy,Chinese,155.3,0,23
+5,clear,Bakery,148.3,1,41
+6,cloudy,Continental,91.0,0,24
+6,cloudy,Continental,40.2,1,23
+3,clear,Continental,97.2,0,18
+6,cloudy,Street Food,203.1,1,55
+3,clear,South Indian,85.5,0,14
+4,cloudy,Chinese,88.2,0,21
+4,clear,South Indian,80.1,1,20
+6,clear,Continental,168.6,0,44
+5,clear,Street Food,110.3,0,30
+0,rain,Continental,95.0,0,20
+0,clear,South Indian,176.5,1,41
+2,cloudy,Street Food,143.2,0,27
+3,clear,Bakery,83.2,0,17
+4,clear,Chinese,71.1,1,27
+3,clear,North Indian,166.3,1,35
+3,rain,Chinese,120.7,0,27
+6,cloudy,Bakery,58.0,1,18
+2,clear,Continental,48.7,1,18
+3,cloudy,South Indian,75.4,0,19
+3,clear,North Indian,70.4,0,7
+3,clear,Street Food,38.2,1,10
+6,clear,Chinese,76.0,1,31
+6,clear,Bakery,83.2,0,27
+3,clear,Chinese,101.5,0,20
+3,cloudy,North Indian,187.7,1,36
+4,clear,Chinese,109.3,1,23
+1,rain,Bakery,113.3,1,35
+2,cloudy,Chinese,140.4,0,21
+1,rain,Continental,110.5,1,34
+1,cloudy,Chinese,136.0,0,25
+0,rain,Chinese,131.2,0,26
+4,clear,South Indian,124.9,1,40
+0,clear,South Indian,230.7,1,54
+4,clear,South Indian,156.4,1,43
+3,rain,Bakery,76.7,1,31
+2,clear,Chinese,134.8,0,24
+5,cloudy,Bakery,88.3,1,31
+3,cloudy,South Indian,137.9,1,34
+5,clear,South Indian,65.0,0,20
+4,rain,Street Food,75.7,1,25
+0,clear,Street Food,133.8,0,31
+1,clear,Chinese,159.9,0,26
+3,cloudy,South Indian,140.1,1,36
+6,clear,Bakery,154.2,0,33
+1,clear,North Indian,135.0,1,32
+0,clear,Chinese,126.9,1,42
+6,clear,Continental,99.9,1,32
+6,cloudy,Bakery,152.5,1,42
+1,rain,North Indian,161.0,1,40
+2,clear,North Indian,117.5,0,21
+4,clear,South Indian,115.3,1,30
+1,clear,North Indian,183.7,1,39
+2,rain,Continental,119.2,0,24
+2,cloudy,Street Food,123.0,1,35
+4,clear,South Indian,139.4,1,39
+2,clear,Chinese,116.1,0,21
+2,rain,South Indian,87.2,0,20
+2,rain,North Indian,135.1,0,27
+5,clear,Bakery,118.4,1,35
+1,rain,South Indian,193.7,0,35
+1,clear,Continental,151.5,0,21
+1,clear,Bakery,96.2,1,25
+6,cloudy,Street Food,149.2,1,46
+6,clear,South Indian,132.3,1,38
+3,clear,Continental,172.4,1,40
+1,rain,Street Food,99.0,1,30
+5,rain,Chinese,127.5,1,48
+3,clear,North Indian,116.0,0,17
+5,cloudy,South Indian,122.3,0,29
+2,cloudy,Bakery,84.6,1,25
+6,cloudy,Bakery,143.0,1,42
+5,storm,South Indian,136.7,1,50
+1,cloudy,South Indian,171.4,0,31
+5,clear,South Indian,119.6,0,31
+2,clear,South Indian,103.5,0,19
+2,rain,Bakery,151.6,0,38
+1,storm,Street Food,88.2,1,34
+4,clear,North Indian,163.4,1,33
+1,clear,Bakery,163.3,1,42
+4,cloudy,Bakery,170.3,1,42
+4,clear,Continental,135.1,0,24
+5,clear,Street Food,100.5,1,33
+6,rain,North Indian,124.4,1,34
+0,rain,Bakery,135.2,1,31
+6,rain,North Indian,97.6,0,34
+0,cloudy,Street Food,173.3,0,29
+3,clear,Chinese,143.2,1,40
+2,rain,North Indian,84.3,0,13
+4,clear,Bakery,195.3,1,41
+5,clear,Bakery,123.9,1,41
+6,rain,Chinese,76.2,1,33
+2,cloudy,South Indian,86.8,1,28
+6,rain,North Indian,179.5,1,52
+2,clear,Street Food,193.0,1,44
+1,storm,South Indian,160.4,1,44
+2,cloudy,Street Food,172.8,0,26
+3,cloudy,Continental,168.7,1,46
+4,rain,Bakery,142.3,1,46
+5,clear,Bakery,133.2,0,26
+1,cloudy,Street Food,141.6,0,21
+2,cloudy,North Indian,149.4,0,26
+6,cloudy,Street Food,90.3,0,24
+3,rain,North Indian,149.3,1,40
+1,cloudy,Street Food,178.3,1,44
+6,clear,South Indian,111.7,0,26
+3,clear,Street Food,107.5,0,19
+6,storm,North Indian,139.1,1,59
+6,storm,Chinese,94.0,1,39
+6,storm,Continental,67.3,0,33
+4,clear,Street Food,165.9,1,46
+5,clear,North Indian,102.0,1,36
+6,cloudy,North Indian,120.7,0,20
+1,cloudy,Continental,95.6,0,17
+0,clear,North Indian,171.1,1,39
+2,cloudy,Bakery,154.1,1,38
+4,clear,North Indian,110.4,1,26
+3,clear,Street Food,72.8,1,26
+0,clear,Continental,106.1,1,33
+3,clear,Street Food,142.8,0,30
+1,clear,North Indian,127.5,0,21
+3,rain,South Indian,124.4,1,32
+4,cloudy,Chinese,128.5,0,25
+4,rain,North Indian,150.4,0,38
+2,clear,North Indian,118.3,0,22
+2,clear,South Indian,138.0,1,37
+4,clear,Bakery,80.5,1,24
+5,cloudy,Bakery,222.2,1,54
+5,clear,North Indian,108.6,0,28
+2,cloudy,North Indian,128.1,0,23
+2,rain,Continental,142.7,0,31
+2,rain,Chinese,103.6,0,25
+3,clear,Bakery,120.3,0,23
+0,clear,South Indian,119.8,0,24
+3,clear,Chinese,83.4,1,22
+1,clear,South Indian,137.5,0,21
+3,cloudy,South Indian,54.0,1,20
+5,clear,Bakery,190.1,1,50
+6,cloudy,Chinese,151.7,0,31
+3,clear,Continental,145.6,0,27
+0,storm,North Indian,50.5,0,21
+1,storm,Continental,88.3,1,39
+0,clear,Chinese,175.6,1,47
+5,rain,Street Food,286.0,1,66
+6,clear,Chinese,167.8,0,32
+3,cloudy,North Indian,161.5,1,38
+1,rain,Bakery,141.0,1,40
+0,rain,North Indian,86.1,1,29
+6,rain,Street Food,159.8,0,37
+2,clear,Chinese,76.0,0,12
+0,rain,Bakery,71.6,0,19
+1,cloudy,Continental,69.1,1,17
+1,clear,Chinese,159.0,0,38
+4,clear,Continental,117.7,1,31
+6,cloudy,South Indian,124.0,0,33
+1,cloudy,North Indian,119.4,1,29
+4,clear,Bakery,75.0,1,26
+0,rain,Street Food,93.2,0,21
+0,cloudy,Street Food,95.2,0,21
+0,clear,South Indian,63.8,0,11
+6,clear,Chinese,99.8,0,30
+4,cloudy,Chinese,76.7,1,18
+5,cloudy,Bakery,143.1,1,46
+0,cloudy,Continental,146.4,1,37
+0,clear,Bakery,68.3,1,18
+5,cloudy,Street Food,108.1,0,33
+0,cloudy,Chinese,194.2,0,42
+1,rain,Continental,80.8,1,20
+3,clear,Continental,137.1,0,25
+4,cloudy,Street Food,124.2,0,25
+1,clear,Chinese,163.7,0,31
+3,clear,South Indian,131.8,1,40
+4,cloudy,Chinese,102.7,1,34
+3,cloudy,Continental,122.7,0,23
+2,clear,Street Food,123.3,1,41
+0,cloudy,Bakery,116.3,0,25
+3,clear,North Indian,67.2,1,21
+5,clear,Continental,169.7,0,34
+4,clear,North Indian,162.7,1,44
+6,clear,Chinese,78.2,0,17
+0,cloudy,Street Food,108.0,1,28
+0,rain,Street Food,111.0,0,23
+3,cloudy,North Indian,73.7,0,15
+1,clear,North Indian,45.3,0,7
+4,clear,Bakery,93.2,0,12
+6,clear,Chinese,105.7,0,30
+2,cloudy,Chinese,62.4,0,10
+3,clear,Street Food,127.1,1,41
+4,clear,Street Food,166.5,1,41
+1,cloudy,Street Food,153.7,1,43
+6,cloudy,Bakery,114.9,0,29
+1,clear,Street Food,46.4,1,24
+5,clear,Bakery,148.6,1,45
+4,cloudy,Street Food,125.9,0,24
+0,clear,Continental,137.0,0,29
+5,clear,North Indian,197.4,0,51
+1,rain,Bakery,87.0,1,29
+4,clear,Street Food,20.0,1,17
+6,clear,South Indian,77.9,0,20
+6,clear,Chinese,139.4,1,43
+6,clear,Continental,121.1,1,38
+3,clear,Continental,71.4,1,14
+3,clear,Bakery,63.2,1,21
+2,cloudy,Chinese,105.8,1,33
+6,clear,Street Food,70.2,0,16
+3,rain,Bakery,140.8,1,43
+5,rain,Street Food,103.5,0,29
+2,clear,Continental,94.9,1,26
+5,clear,North Indian,89.7,0,26
+1,cloudy,Street Food,130.5,0,26
+5,storm,North Indian,121.7,1,48
+0,rain,South Indian,128.1,1,41
+0,clear,South Indian,127.2,1,34
+2,clear,South Indian,117.1,1,25
+3,clear,Bakery,78.7,1,23
+4,rain,Chinese,90.8,1,23
+2,cloudy,South Indian,104.2,1,31
+0,clear,North Indian,202.6,0,40
+2,cloudy,South Indian,66.0,1,26
+3,clear,Bakery,103.2,0,21
+3,cloudy,Bakery,123.9,1,36
+4,clear,South Indian,107.9,0,13
+1,cloudy,North Indian,163.0,0,29
+4,cloudy,Continental,107.7,0,14
+4,cloudy,Bakery,110.6,0,18
+5,clear,North Indian,152.6,1,50
+3,rain,Bakery,192.4,1,53
+5,cloudy,South Indian,176.3,1,50
+1,clear,South Indian,114.5,0,20
+4,clear,Continental,118.0,0,17
+0,cloudy,North Indian,121.9,0,23
+0,clear,South Indian,125.9,1,37
+6,clear,North Indian,86.1,1,33
+3,clear,South Indian,157.5,0,22
+4,clear,Bakery,128.3,0,24
+4,clear,South Indian,118.2,1,24
+4,cloudy,North Indian,69.2,1,26
+1,clear,South Indian,122.5,0,19
+1,cloudy,North Indian,44.3,0,3
+0,clear,Continental,96.7,1,31
+6,clear,Street Food,97.5,1,36
+1,clear,South Indian,131.5,1,35
+4,cloudy,Bakery,195.2,1,54
+3,storm,Chinese,142.9,1,46
+1,clear,North Indian,177.9,0,29
+2,clear,Bakery,145.8,1,38
+0,clear,South Indian,165.0,0,29
+1,clear,Continental,194.3,0,40
+0,rain,Continental,90.7,0,21
+5,clear,Continental,88.1,1,33
+3,storm,North Indian,146.8,0,29
+6,cloudy,South Indian,119.9,0,28
+3,clear,Bakery,128.8,1,33
+1,rain,Street Food,110.1,0,20
+4,clear,North Indian,96.1,1,26
+6,cloudy,Chinese,184.8,1,51
+3,clear,Street Food,76.0,1,24
+0,rain,South Indian,147.5,1,35
+2,clear,Chinese,141.0,1,34
+6,clear,Street Food,56.8,1,24
+3,rain,Street Food,86.8,1,30
+6,clear,Continental,93.5,0,23
+3,clear,Bakery,142.6,0,24
+0,cloudy,Continental,105.3,1,27
+6,clear,South Indian,116.6,0,27
+5,rain,Street Food,61.7,0,25
+5,cloudy,North Indian,213.0,0,45
+6,cloudy,North Indian,122.8,1,44
+1,clear,Continental,140.0,1,40
+6,clear,Street Food,98.4,1,40
+1,storm,Bakery,93.9,1,40
+6,clear,Bakery,196.5,1,58
+1,clear,Chinese,43.3,1,13
+3,clear,Chinese,131.1,1,36
+5,clear,Chinese,71.5,1,34
+0,cloudy,South Indian,103.8,1,34
+0,cloudy,Chinese,94.5,0,14
+5,cloudy,North Indian,80.6,0,23
+0,rain,South Indian,121.4,0,26
+4,clear,Street Food,20.0,1,21
+6,clear,Bakery,107.4,1,30
+4,clear,North Indian,116.4,1,28
+3,cloudy,South Indian,65.6,1,15
+2,clear,South Indian,180.5,0,33
+4,cloudy,South Indian,96.2,0,26
+4,clear,Bakery,110.5,0,20
+3,rain,Street Food,96.3,1,32
+1,rain,Bakery,116.7,0,27
+4,rain,Chinese,172.3,0,35
+5,clear,North Indian,218.9,1,57
+4,storm,North Indian,149.8,0,37
+0,clear,Bakery,163.5,1,36
+4,clear,Bakery,188.7,1,44
+5,clear,Continental,130.0,1,42
+1,clear,Continental,182.8,0,37
+5,cloudy,Street Food,151.7,0,38
+3,clear,Bakery,125.8,0,24
+3,clear,North Indian,134.0,0,26
+5,cloudy,Chinese,47.1,1,27
+3,rain,North Indian,131.7,1,35
+3,cloudy,Chinese,58.3,0,8
+2,cloudy,Continental,55.0,0,9
+6,clear,South Indian,127.7,0,24
+6,rain,North Indian,75.4,0,25
+0,clear,Chinese,119.7,1,36
+5,clear,Continental,125.5,0,26
+0,clear,Bakery,127.3,0,25
+2,cloudy,North Indian,83.8,0,13
+6,clear,South Indian,155.9,1,40
+1,cloudy,Bakery,116.4,0,29
+2,clear,Bakery,137.6,0,21
+1,clear,Street Food,72.1,1,18
+5,clear,Bakery,112.9,1,37
+3,clear,Street Food,163.9,0,31
+4,clear,Continental,158.8,1,41
+6,cloudy,Street Food,88.1,0,30
+3,clear,Chinese,98.2,0,15
+5,clear,Street Food,80.5,1,28
+0,cloudy,Chinese,93.7,0,23
+1,clear,Chinese,64.0,1,25
+6,clear,Bakery,114.5,0,30
+6,clear,Chinese,145.3,1,40
+4,clear,North Indian,88.6,0,20
+2,clear,Street Food,116.4,1,34
+1,cloudy,Chinese,111.2,1,31
+5,clear,Street Food,162.2,1,43
+5,cloudy,Chinese,95.5,0,24
+1,clear,Street Food,97.0,1,34
+4,cloudy,Continental,86.2,0,11
+4,cloudy,Bakery,74.5,1,20
+3,clear,Bakery,141.2,1,33
+6,clear,South Indian,114.6,0,25
+0,clear,Bakery,122.2,0,22
+1,storm,Street Food,171.0,1,53
+0,storm,Continental,173.3,1,51
+4,clear,Street Food,54.2,0,10
+4,cloudy,Street Food,145.9,0,27
+6,clear,Continental,129.0,0,32
+3,clear,Chinese,101.5,1,22
+1,cloudy,Street Food,133.1,0,28
+3,clear,South Indian,50.9,1,16
+0,clear,Continental,178.5,0,30
+4,rain,Bakery,140.6,1,41
+4,clear,Street Food,85.4,0,15
+6,cloudy,South Indian,96.6,0,25
+2,clear,North Indian,51.9,1,20
+2,clear,Chinese,107.4,1,28
+0,clear,Street Food,100.7,0,24
+2,storm,Continental,67.0,0,23
+3,clear,North Indian,151.1,0,28
+5,clear,North Indian,171.1,1,50
+5,cloudy,Chinese,118.9,0,25
+0,storm,Chinese,107.8,1,46
+1,rain,North Indian,137.4,0,24
+3,cloudy,Chinese,119.2,1,32
+2,clear,Chinese,76.7,1,23
+0,cloudy,South Indian,93.9,0,16
+5,rain,South Indian,108.1,0,28
+5,rain,Continental,129.9,1,40
+3,rain,Street Food,120.4,0,30
